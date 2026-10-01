@@ -143,23 +143,25 @@ fetch("dades.json?t=" + Date.now())
 .then(r => r.json())
 .then(d => {
 
+    console.log(d);
+
     document.getElementById("temp").innerHTML =
-        d.actual.temperatura.toFixed(1) + "°";
+        d.actual.temperatura + "°";
 
     document.getElementById("humitat").innerHTML =
         d.actual.humitat + "%";
 
     document.getElementById("pressio").innerHTML =
-        d.actual.pressio.toFixed(1) + " hPa";
+        d.actual.pressio + " hPa";
 
     document.getElementById("vent").innerHTML =
-        d.actual.vent.toFixed(1) + " km/h";
+        d.actual.vent + " km/h";
 
     document.getElementById("ratxa").innerHTML =
-        d.actual.ratxa.toFixed(1) + " km/h";
+        d.actual.ratxa + " km/h";
 
     document.getElementById("pluja").innerHTML =
-        d.pluja.avui.toFixed(1) + " l/m²";
+        d.pluja.avui + " l/m²";
 
     document.getElementById("uv").innerHTML =
         d.actual.uv;
@@ -167,4 +169,17 @@ fetch("dades.json?t=" + Date.now())
     document.getElementById("lluna").innerHTML =
         "🌙 " + d.astronomia.fase_lluna;
 
-    document
+    document.getElementById("actualitzacio").innerHTML =
+        d.actualitzacio;
+
+})
+.catch(error => {
+
+    document.body.innerHTML +=
+        "<pre>" + error + "</pre>";
+
+    console.error(error);
+
+});
+
+</script>
