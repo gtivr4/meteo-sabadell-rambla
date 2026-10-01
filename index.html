@@ -1,11 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="ca">
 <head>
   <meta charset="utf-8">
   <title>Meteo Sabadell Rambla</title>
 </head>
 <body>
-  <h1>Meteo Sabadell Rambla</h1>
-  <p>La web funciona 🎉</p>
+
+<h1>Meteo Sabadell Rambla</h1>
+
+<div id="dades">Carregant...</div>
+
+<script>
+fetch("dades.json")
+  .then(r => r.json())
+  .then(d => {
+
+    document.getElementById("dades").innerHTML = `
+      🌡️ Temperatura: ${d.temperatura} °C<br>
+      💧 Humitat: ${d.humitat}%<br>
+      🌧️ Pluja avui: ${d.pluja_dia} mm<br>
+      🌬️ Vent: ${d.vent} km/h<br>
+      📈 Pressió: ${d.pressio} hPa
+    `;
+
+  });
+</script>
+
 </body>
 </html>
