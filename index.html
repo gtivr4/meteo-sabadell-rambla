@@ -285,7 +285,7 @@ function getWeatherIcon(dades) {
     
     if (
       neu >= 30 &&
-      pluja > 0
+      rati > 0
     ) {
       return 'sleet.svg';
     }
@@ -299,7 +299,7 @@ function getWeatherIcon(dades) {
     if (
       temp <= 3 &&
       tempesta >= 60 &&
-      pluja >= 5
+      rati >= 5
     ) {
       return 'hail.svg';
     }
@@ -310,7 +310,7 @@ function getWeatherIcon(dades) {
        PLUJA TORRENCIAL
     ===================== */
     
-    if (pluja >= 30) {
+    if (rati >= 30) {
     
       if (nit)
         return 'extreme-night-rain.svg';
@@ -324,7 +324,7 @@ function getWeatherIcon(dades) {
        PLUJA FORTA
     ===================== */
     
-    if (pluja >= 10) {
+    if (rati >= 10) {
     
       if (nit)
         return 'overcast-night-rain.svg';
@@ -338,7 +338,7 @@ function getWeatherIcon(dades) {
        PLUJA MODERADA
     ===================== */
     
-    if (pluja >= 2) {
+    if (rati >= 2) {
     
       if (nit)
         return 'overcast-night-rain.svg';
@@ -352,7 +352,7 @@ function getWeatherIcon(dades) {
        PLUGIM
     ===================== */
     
-    if (pluja > 0) {
+    if (rati > 0) {
     
       if (nit)
         return 'overcast-night-drizzle.svg';
@@ -553,7 +553,7 @@ function carregarDades(){
             d.pluja.avui.toFixed(1) + " mm";
 
         document.getElementById("rati").textContent =
-            d.pluja.rati.toFixed(1) + " mm";
+            d.pluja.rati.toFixed(1) + " mm/h";
         
         document.getElementById("predpluja").textContent =
             d.prediccio.pluja + "%";
