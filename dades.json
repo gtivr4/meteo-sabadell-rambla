@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 19.8,
     "sensacio": 19.8,
-    "humitat": 86.0,
+    "humitat": 85.0,
     "pressio": 1024.3,
-    "vent": 0.0,
+    "vent": 0.4,
     "ratxa": 1.8,
-    "radiacio": 140.89,
+    "radiacio": 141.38,
     "uv": 1.0,
     "cobertura": 100.0,
-    "base_nuvols": 300.0
+    "base_nuvols": 325.0
   },
   "pluja": {
     "rati": 0.0,
@@ -25,9 +25,9 @@
     "llum_lluna": 60.8065601242312
   },
   "prediccio": {
-    "pluja": 84,
-    "tempesta": 46,
+    "pluja": 82,
+    "tempesta": 44,
     "neu": 0
   },
-  "actualitzacio": "2026-10-02T16:09:23.975886+02:00"
+  "actualitzacio": "2026-10-02T16:09:53.973890+02:00"
 }
