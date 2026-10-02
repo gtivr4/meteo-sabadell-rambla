@@ -1,9 +1,9 @@
 {
   "actual": {
-    "temperatura": 20.2,
-    "sensacio": 20.2,
+    "temperatura": 20.1,
+    "sensacio": 20.1,
     "humitat": 86.0,
-    "pressio": 1024.6,
+    "pressio": 1024.7,
     "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
@@ -23,7 +23,7 @@
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "llum_lluna": 57.6490087928798
+    "llum_lluna": 57.640879136449
   },
   "prediccio": {
     "pluja": 68,
@@ -32,5 +32,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-02T22:40:40.735390+02:00"
+  "actualitzacio": "2026-10-02T22:41:10.734225+02:00"
 }
