@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
+
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,6 +14,21 @@
 
 *{
     box-sizing:border-box;
+}
+
+#icona_lluna .mdi{
+    font-size:24px;
+    color:#e1bee7;
+    vertical-align:middle;
+    margin-right:4px;
+}
+
+body{
+    margin:0;
+    padding:20px;
+    background:#071625;
+    color:white;
+    font-family:Segoe UI,Arial,sans-serif;
 }
 
 body{
@@ -278,17 +295,18 @@ function carregarDades(){
         document.getElementById("neu").textContent =
             d.prediccio.neu + "%";
 
-        document.getElementById("lluna").textContent = "🌙 " + d.astronomia.fase_lluna;
-
         document.getElementById("llumlluna").textContent =
             d.astronomia.llum_lluna.toFixed(0) +
             "% il·luminada";
                 
+        document.getElementById("lluna").textContent =
+            d.astronomia.fase_lluna;
+        
         const mdi = d.astronomia.icona_lluna;
         
         document.getElementById("icona_lluna").innerHTML =
-          `<i class="mdi ${mdi.replace('mdi:', 'mdi-')}"></i>`;
-
+            `<i class="mdi ${mdi.replace('mdi:', 'mdi-')}"></i>`;
+        ``
         document.getElementById("actualitzacio").textContent =
             "Actualitzat: " +
             new Date(d.actualitzacio).toLocaleString("ca-ES");
