@@ -1,12 +1,12 @@
 {
   "actual": {
-    "temperatura": 20.4,
-    "sensacio": 20.4,
+    "temperatura": 20.3,
+    "sensacio": 20.3,
     "humitat": 85.0,
     "pressio": 1024.3,
-    "vent": 0.0,
+    "vent": 0.4,
     "ratxa": 0.0,
-    "radiacio": 0.01,
+    "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 100.0,
     "base_nuvols": 325.0
@@ -32,5 +32,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-02T19:58:10.346294+02:00"
+  "actualitzacio": "2026-10-02T19:58:40.341181+02:00"
 }
