@@ -32,7 +32,7 @@ body{
 }
 
 .card{
-    max-width:1200px;
+    max-width:1000px;
     margin:auto;
     padding:30px;
 
@@ -81,10 +81,10 @@ body{
 }
 
 #icona{
-    width:180px;
-    height:180px;
+    width:220px;
+    height:220px;
     display:block;
-    margin:0 auto 20px auto;
+    margin:-10px auto 10px auto;
 }
       
 .subinfo{
@@ -168,7 +168,7 @@ body{
 .stats{
     display:grid;
     grid-template-columns:1fr 1fr;
-    gap:60px;
+    gap:0;
     max-width:700px;
     margin:0 auto;
     position:relative;
@@ -188,8 +188,16 @@ body{
     display:flex;
     flex-direction:column;
     gap:20px;
+    padding:0 30px;
+}
+      
+.col:first-child{
+    text-align:left;
 }
 
+.col:last-child{
+    text-align:left;
+}
 .metrica{
     font-size:18px;
     font-weight:700;
@@ -223,11 +231,18 @@ body{
     color:#9bb7d4;
 }  
 .pressio-top{
-    margin-top:10px;
-    font-size:20px;
+    margin-top:8px;
+    font-size:28px;
     font-weight:700;
-    color:#ffd05c;
+    color:#ffd54f;
 }
+.pluja-m{ color:#4fc3f7; }
+.humitat-m{ color:#7dd3fc; }
+.radiacio-m{ color:#ffd54f; }
+
+.ratxa-m{ color:#90caf9; }
+.vent-m{ color:#b3e5fc; }
+.uv-m{ color:#9ccc65; }      
 @media (max-width:700px){
 
     .temp{
@@ -310,19 +325,19 @@ body{
       
           <div class="col">
       
-              <div class="metrica">
+              <div class="metrica pluja-m">
                   🌧 Rati pluja
                   <span id="rati">--</span>
                   <small>màx. <span id="max_rati">--</span></small>
               </div>
       
-              <div class="metrica">
+              <div class="metrica humitat-m">
                   💧 Humitat
                   <span id="humitat">--</span>
                   <small>màx. <span id="max_humitat">--</span></small>
               </div>
       
-              <div class="metrica">
+              <div class="metrica radiacio-m">
                   ☀ Radiació
                   <span id="radiacio">--</span>
               </div>
@@ -331,19 +346,19 @@ body{
       
           <div class="col">
       
-              <div class="metrica">
+              <div class="metrica ratxa-m">
                   💨 Ratxa
                   <span id="ratxa">--</span>
                   <small>màx. <span id="max_ratxa">--</span></small>
               </div>
       
-              <div class="metrica">
+              <div class="metrica vent-m">
                   🌬 Vent
                   <span id="vent">--</span>
                   <small>màx. <span id="max_vent">--</span></small>
               </div>
       
-              <div class="metrica">
+              <div class="metrica uv-m">
                   UV
                   <span id="uv">--</span>
               </div>
