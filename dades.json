@@ -4,9 +4,9 @@
     "sensacio": 20.8,
     "humitat": 82.0,
     "pressio": 1024.1,
-    "vent": 0.0,
+    "vent": 0.4,
     "ratxa": 1.8,
-    "radiacio": 53.48,
+    "radiacio": 53.18,
     "uv": 0.0,
     "cobertura": 100.0,
     "base_nuvols": 400.0
@@ -23,7 +23,7 @@
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "llum_lluna": 59.8028553759109
+    "llum_lluna": 59.7947933446386
   },
   "prediccio": {
     "pluja": 71,
@@ -32,5 +32,5 @@
   },
   "condicio": "Molt ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-02T18:14:40.023522+02:00"
+  "actualitzacio": "2026-10-02T18:15:10.019476+02:00"
 }
