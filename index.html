@@ -61,7 +61,20 @@ body{
     align-items:flex-start;
     margin-bottom:10px;
 }
+.pluja-resum{
+    margin-top:25px;
+    padding-top:15px;
+    border-top:1px solid rgba(255,255,255,.2);
 
+    display:grid;
+    grid-template-columns:repeat(6,1fr);
+
+    text-align:center;
+}
+
+.pluja-resum b{
+    font-size:28px;
+}
 .esquerra{
     text-align:left;
 }
@@ -397,7 +410,23 @@ function carregarDades(){
             d.pluja.rati.toFixed(1) + " mm/h";
             document.getElementById("max_rati").textContent =
                 d.maxims.rati_pluja.toFixed(1) + " mm/h";
-            
+      document.getElementById("pluja_hora").textContent =
+          d.pluja.hora.toFixed(1);
+      
+      document.getElementById("pluja_avui").textContent =
+          d.pluja.avui.toFixed(1);
+      
+      document.getElementById("pluja_ahir").textContent =
+          d.pluja.ahir.toFixed(1);
+      
+      document.getElementById("pluja_setmana").textContent =
+          d.pluja.setmana.toFixed(1);
+      
+      document.getElementById("pluja_mes").textContent =
+          d.pluja.mes.toFixed(1);
+      
+      document.getElementById("pluja_any").textContent =
+          d.pluja.any.toFixed(1);            
             document.getElementById("max_vent").textContent =
                 d.maxims.vent.toFixed(1) + " km/h";
             
