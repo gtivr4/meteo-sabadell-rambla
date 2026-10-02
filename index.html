@@ -168,9 +168,30 @@ body{
 .sol{
     display:flex;
     justify-content:center;
+    gap:60px;
+
+    font-size:34px;
+    margin:20px 0 10px 0;
+}
+.stats{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    max-width:700px;
+    margin:auto;
     gap:40px;
-    font-size:32px;
-    margin-top:15px;
+}
+
+.metrica{
+    font-size:48px;
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+.metrica small{
+    display:block;
+    font-size:16px;
+    color:#8fb4d8;
+    margin-top:4px;
 }      
 .maxim{
     font-size:14px;
@@ -250,75 +271,43 @@ body{
           <img id="icona" alt="">
       
       </div>
-    <div class="grid">
-
-      <div class="box">
-          <div class="label">💧 Humitat</div>
-          <div id="humitat" class="value">--</div>
-          <div class="maxim">
-              màx. <span id="max_humitat">--</span>
+      <div class="stats">
+      
+          <div class="col">
+      
+              <div class="metrica">
+                  🌧 <span id="rati"></span>
+                  <small>màx. <span id="max_rati"></span></small>
+              </div>
+      
+              <div class="metrica">
+                  💧 <span id="humitat"></span>
+                  <small>màx. <span id="max_humitat"></span></small>
+              </div>
+      
+              <div class="metrica">
+                  ☀ <span id="radiacio"></span>
+              </div>
+      
           </div>
-      </div>
-
-        <div class="box">
-            <div class="label">Pressió</div>
-            <div id="pressio" class="value">--</div>
-        </div>
-
-      <div class="box">
-          <div class="label">🌬 Vent</div>
       
-          <div id="vent" class="value">--</div>
+          <div class="col">
       
-          <div class="maxim">
-              màx. <span id="max_vent">--</span>
+              <div class="metrica">
+                  🌬 <span id="ratxa"></span>
+                  <small>màx. <span id="max_ratxa"></span></small>
+              </div>
+      
+              <div class="metrica">
+                  💨 <span id="vent"></span>
+                  <small>màx. <span id="max_vent"></span></small>
+              </div>
+      
+              <div class="metrica">
+                  UV <span id="uv"></span>
+              </div>
+      
           </div>
-      </div>
-
-      <div class="box">
-          <div class="label">💨 Ratxa</div>
-      
-          <div id="ratxa" class="value">--</div>
-      
-          <div class="maxim">
-              màx. <span id="max_ratxa">--</span>
-          </div>
-      </div>
-
-        <div class="box">
-            <div class="label">UV</div>
-            <div id="uv" class="value">--</div>
-        </div>
-
-        <div class="box">
-            <div class="label">Radiació</div>
-            <div id="radiacio" class="value">--</div>
-        </div>
-
-      <div class="box">
-          <div class="label">🌧 Rati pluja</div>
-      
-          <div id="rati" class="value">--</div>
-      
-          <div class="maxim">
-              màx. <span id="max_rati">--</span>
-          </div>
-      </div>
-        
-        <div class="box">
-            <div class="label">Pluja avui</div>
-            <div id="pluja" class="value">--</div>
-        </div>
-        
-        <div class="box">
-            <div class="label">Sortida sol</div>
-            <div id="sortida_sol" class="value">--</div>
-        </div>
-      
-        <div class="box">
-            <div class="label">Posta sol</div>
-            <div id="posta_sol" class="value">--</div>
-        </div>
       <div class="sol">
       
           <div>
@@ -329,8 +318,8 @@ body{
               🌇 <span id="posta_sol"></span>
           </div>
       
+      </div>      
       </div>
-    </div>
       <h2 style="
       text-align:center;
       color:#8fc7ff;
