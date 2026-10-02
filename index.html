@@ -236,6 +236,25 @@ body{
             <div class="label">Posta sol</div>
             <div id="posta_sol" class="value">--</div>
         </div>
+      <div class="box">
+          <div class="label">Ràtio pluja màx.</div>
+          <div id="max_rati" class="value">--</div>
+      </div>
+      
+      <div class="box">
+          <div class="label">Vent màxim</div>
+          <div id="max_vent" class="value">--</div>
+      </div>
+      
+      <div class="box">
+          <div class="label">Ratxa màxima</div>
+          <div id="max_ratxa" class="value">--</div>
+      </div>
+      
+      <div class="box">
+          <div class="label">Humitat màxima</div>
+          <div id="max_humitat" class="value">--</div>
+      </div>
     </div>
 
     <div id="actualitzacio" class="footer"></div>
@@ -293,7 +312,18 @@ function carregarDades(){
 
         document.getElementById("rati").textContent =
             d.pluja.rati.toFixed(1) + " mm/h";
-        
+            document.getElementById("max_rati").textContent =
+                d.maxims.rati_pluja.toFixed(1) + " mm/h";
+            
+            document.getElementById("max_vent").textContent =
+                d.maxims.vent.toFixed(1) + " km/h";
+            
+            document.getElementById("max_ratxa").textContent =
+                d.maxims.ratxa.toFixed(1) + " km/h";
+            
+            document.getElementById("max_humitat").textContent =
+                d.maxims.humitat.toFixed(0) + "%";
+                    
         document.getElementById("predpluja").textContent =
             d.prediccio.pluja + "%";
 
