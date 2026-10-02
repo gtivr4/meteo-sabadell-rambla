@@ -120,7 +120,12 @@ body{
     display:block;
     margin:0 auto 15px;
 }    
-
+      
+#lluna_bloc{
+    font-size:22px;
+    font-weight:600;
+}
+      
 .temp{
     font-size:110px;
     font-weight:700;
@@ -149,9 +154,10 @@ body{
 }
 
 .box{
-    background:rgba(255,255,255,.08);
-    border-radius:16px;
-    padding:15px;
+    background:transparent;
+    border:none;
+    border-radius:0;
+    padding:6px;
 }
 
 .label{
@@ -161,8 +167,8 @@ body{
 }
 
 .value{
-    font-size:28px;
-    font-weight:bold;
+    font-size:34px;
+    font-weight:700;
 }
 
 .footer{
@@ -314,6 +320,13 @@ body{
           <div id="max_humitat" class="value">--</div>
       </div>
     </div>
+      <h2 style="
+      text-align:center;
+      color:#8fc7ff;
+      margin-top:30px;">
+      Pluja acumulada (l/m²)
+      </h2>
+      
       <div class="pluja-resum">
       
           <div>Hora<br><b id="pluja_hora"></b></div>
