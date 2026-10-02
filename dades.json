@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 20.1,
     "sensacio": 20.1,
-    "humitat": 84.0,
-    "pressio": 1024.2,
-    "vent": 0.0,
+    "humitat": 83.0,
+    "pressio": 1024.1,
+    "vent": 0.4,
     "ratxa": 1.8,
-    "radiacio": 164.41,
+    "radiacio": 164.79,
     "uv": 1.0,
     "cobertura": 100.0,
-    "base_nuvols": 350.0
+    "base_nuvols": 375.0
   },
   "pluja": {
     "rati": 0.0,
@@ -22,12 +22,12 @@
   },
   "astronomia": {
     "fase_lluna": "waning_gibbous",
-    "llum_lluna": 60.7094224651807
+    "llum_lluna": 60.7013941393414
   },
   "prediccio": {
-    "pluja": 82,
-    "tempesta": 44,
+    "pluja": 88,
+    "tempesta": 50,
     "neu": 0
   },
-  "actualitzacio": "2026-10-02T16:22:01.204947+02:00"
+  "actualitzacio": "2026-10-02T16:22:31.210235+02:00"
 }
