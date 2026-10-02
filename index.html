@@ -81,10 +81,10 @@ body{
 }
 
 #icona{
-    width:340px;
-    height:340px;
+    width:180px;
+    height:180px;
     display:block;
-    margin:-40px auto -20px auto;
+    margin:0 auto 20px auto;
 }
       
 .subinfo{
@@ -104,11 +104,11 @@ body{
 }
       
 .temp{
-    font-size:110px;
+    font-size:90px;
     font-weight:700;
     line-height:1;
 }
-
+      
 .condicio{
     font-size:28px;
     margin-top:10px;
@@ -168,41 +168,54 @@ body{
 .stats{
     display:grid;
     grid-template-columns:1fr 1fr;
-    gap:80px;
+    gap:60px;
     max-width:700px;
-    margin:-30px auto 20px auto;
+    margin:0 auto;
+    position:relative;
+}
+
+.stats::before{
+    content:"";
+    position:absolute;
+    left:50%;
+    top:0;
+    bottom:0;
+    width:1px;
+    background:rgba(255,255,255,.20);
 }
 
 .col{
     display:flex;
     flex-direction:column;
-    gap:18px;
+    gap:20px;
 }
 
 .metrica{
-    font-size:20px;
+    font-size:18px;
     font-weight:700;
+    color:#9bd4ff;
 }
 
 .metrica span{
-    font-size:22px;
+    display:block;
+    color:white;
+    font-size:28px;
     font-weight:700;
+    margin-top:4px;
 }
 
 .metrica small{
     display:block;
-    font-size:15px;
+    font-size:14px;
     color:#9bb7d4;
-    margin-top:4px;
 }
 
 .sol{
     display:flex;
     justify-content:center;
     gap:80px;
-    margin-top:10px;
-    margin-bottom:20px;
-    font-size:34px;
+    margin:25px 0;
+    font-size:28px;
     font-weight:700;
 }
 .maxim{
@@ -211,10 +224,10 @@ body{
 }  
 .pressio-top{
     margin-top:10px;
-    font-size:34px;
+    font-size:20px;
     font-weight:700;
     color:#ffd05c;
-}      
+}
 @media (max-width:700px){
 
     .temp{
@@ -298,21 +311,20 @@ body{
           <div class="col">
       
               <div class="metrica">
-                  🌧 <span id="rati">--</span>
-                  <small>
-                      màx. <span id="max_rati">--</span>
-                  </small>
+                  🌧 Rati pluja
+                  <span id="rati">--</span>
+                  <small>màx. <span id="max_rati">--</span></small>
               </div>
       
               <div class="metrica">
-                  💧 <span id="humitat">--</span>
-                  <small>
-                      màx. <span id="max_humitat">--</span>
-                  </small>
+                  💧 Humitat
+                  <span id="humitat">--</span>
+                  <small>màx. <span id="max_humitat">--</span></small>
               </div>
       
               <div class="metrica">
-                  ☀ <span id="radiacio">--</span>
+                  ☀ Radiació
+                  <span id="radiacio">--</span>
               </div>
       
           </div>
@@ -320,21 +332,20 @@ body{
           <div class="col">
       
               <div class="metrica">
-                  💨 <span id="ratxa">--</span>
-                  <small>
-                      màx. <span id="max_ratxa">--</span>
-                  </small>
+                  💨 Ratxa
+                  <span id="ratxa">--</span>
+                  <small>màx. <span id="max_ratxa">--</span></small>
               </div>
       
               <div class="metrica">
-                  🌬 <span id="vent">--</span>
-                  <small>
-                      màx. <span id="max_vent">--</span>
-                  </small>
+                  🌬 Vent
+                  <span id="vent">--</span>
+                  <small>màx. <span id="max_vent">--</span></small>
               </div>
       
               <div class="metrica">
-                  UV <span id="uv">--</span>
+                  UV
+                  <span id="uv">--</span>
               </div>
       
           </div>
