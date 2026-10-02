@@ -492,14 +492,11 @@ function carregarDades(){
 
     .then(d => {
 
-        const icona = getWeatherIcon(d);
-        
         document.getElementById("icona").src =
-            "icons/" + icona;
+            "icons/" + d.icona;
         
         document.getElementById("condicio").textContent =
-            icona.replace(".svg","")
-                 .replaceAll("-"," ");
+            d.condicio;
 
         document.getElementById("temp").textContent =
             d.actual.temperatura.toFixed(1) + "°";
