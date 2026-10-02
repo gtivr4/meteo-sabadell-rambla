@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ca">
-
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,48 +23,52 @@ body{
 .card{
     max-width:1200px;
     margin:auto;
-
-    background:
-      radial-gradient(circle at top,
-      rgba(255,255,255,.08),
-      rgba(255,255,255,0)),
-      linear-gradient(135deg,#10253d,#234b7d);
+    padding:30px;
 
     border-radius:24px;
-    padding:30px;
-    box-shadow:0 10px 30px rgba(0,0,0,.3);
+
+    background:
+    radial-gradient(circle at top,
+    rgba(255,255,255,.08),
+    rgba(255,255,255,0)),
+    linear-gradient(135deg,#10253d,#234b7d);
+
+    box-shadow:0 10px 30px rgba(0,0,0,.35);
 }
 
-.header{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    flex-wrap:wrap;
-    gap:20px;
+.hero{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+.icona{
+    font-size:90px;
 }
 
 .temp{
-    font-size:100px;
+    font-size:110px;
     font-weight:700;
     line-height:1;
 }
 
-.sub{
-    font-size:24px;
-    opacity:.9;
+.condicio{
+    font-size:28px;
+    margin-top:10px;
+}
+
+.sensacio{
+    margin-top:10px;
+    opacity:.8;
 }
 
 .lluna{
-    text-align:right;
-    font-size:20px;
-    line-height:1.7;
+    margin-top:15px;
+    font-size:18px;
 }
 
 .grid{
-    margin-top:30px;
-
     display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
     gap:15px;
 }
 
@@ -89,7 +92,7 @@ body{
 .footer{
     margin-top:25px;
     text-align:right;
-    opacity:.7;
+    opacity:.8;
     font-size:13px;
 }
 
@@ -99,44 +102,39 @@ body{
         font-size:70px;
     }
 
-    .lluna{
-        text-align:left;
+    .icona{
+        font-size:60px;
     }
 
 }
 
 </style>
+
 </head>
 
 <body>
 
 <div class="card">
 
-    <div class="header">
+    <div class="hero">
 
-        <div>
+        <div id="icona" class="icona">☁️</div>
 
-            <div class="temp" id="temp">
-                --
-            </div>
+        <div id="temp" class="temp">--</div>
 
-            <div class="sub">
-                Sensació:
-                <span id="sensacio">--</span>
-            </div>
+        <div id="condicio" class="condicio">
+            Carregant...
+        </div>
 
+        <div class="sensacio">
+            Sensació:
+            <span id="sensacio">--</span>
         </div>
 
         <div class="lluna">
-
-            <div id="lluna">
-                🌙 --
-            </div>
-
-            <div id="llumlluna">
-                --
-            </div>
-
+            <span id="lluna">🌙 --</span>
+            ·
+            <span id="llumlluna">--</span>
         </div>
 
     </div>
@@ -145,103 +143,107 @@ body{
 
         <div class="box">
             <div class="label">Humitat</div>
-            <div class="value" id="humitat">--</div>
+            <div id="humitat" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Pressió</div>
-            <div class="value" id="pressio">--</div>
+            <div id="pressio" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Vent</div>
-            <div class="value" id="vent">--</div>
+            <div id="vent" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Ratxa</div>
-            <div class="value" id="ratxa">--</div>
-        </div>
-
-        <div class="box">
-            <div class="label">Radiació</div>
-            <div class="value" id="radiacio">--</div>
+            <div id="ratxa" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">UV</div>
-            <div class="value" id="uv">--</div>
+            <div id="uv" class="value">--</div>
         </div>
 
         <div class="box">
-            <div class="label">Cobertura núvols</div>
-            <div class="value" id="cobertura">--</div>
+            <div class="label">Radiació</div>
+            <div id="radiacio" class="value">--</div>
+        </div>
+
+        <div class="box">
+            <div class="label">Cobertura</div>
+            <div id="cobertura" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Base núvols</div>
-            <div class="value" id="nuvols">--</div>
-        </div>
-
-        <div class="box">
-            <div class="label">Pluja hora</div>
-            <div class="value" id="pluja_hora">--</div>
+            <div id="nuvols" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Pluja avui</div>
-            <div class="value" id="pluja_avui">--</div>
-        </div>
-
-        <div class="box">
-            <div class="label">Pluja setmana</div>
-            <div class="value" id="pluja_setmana">--</div>
-        </div>
-
-        <div class="box">
-            <div class="label">Pluja any</div>
-            <div class="value" id="pluja_any">--</div>
+            <div id="pluja" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Prob. pluja</div>
-            <div class="value" id="pred_pluja">--</div>
+            <div id="predpluja" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Tempesta</div>
-            <div class="value" id="pred_tempesta">--</div>
+            <div id="tempesta" class="value">--</div>
         </div>
 
         <div class="box">
             <div class="label">Neu</div>
-            <div class="value" id="pred_neu">--</div>
+            <div id="neu" class="value">--</div>
         </div>
 
     </div>
 
-    <div class="footer" id="actualitzacio">
-        --
-    </div>
+    <div id="actualitzacio" class="footer"></div>
 
 </div>
 
 <script>
 
-function formatData(dataISO){
+function tradueixLluna(fase){
 
-    const data = new Date(dataISO);
+    const fases = {
+        "new_moon":"Lluna nova",
+        "waxing_crescent":"Creixent",
+        "first_quarter":"Quart creixent",
+        "waxing_gibbous":"Gibosa creixent",
+        "full_moon":"Lluna plena",
+        "waning_gibbous":"Gibosa minvant",
+        "last_quarter":"Quart minvant",
+        "waning_crescent":"Minvant"
+    };
 
-    return data.toLocaleString(
-        "ca-ES",
-        {
-            day:"2-digit",
-            month:"2-digit",
-            year:"numeric",
-            hour:"2-digit",
-            minute:"2-digit"
-        }
-    );
+    return fases[fase] || fase;
+}
+
+function obtenirCondicio(d){
+
+    if(d.pluja.hora > 0){
+        return { icona:"🌧️", text:"Plovent" };
+    }
+
+    if(d.actual.cobertura > 90){
+        return { icona:"☁️", text:"Molt ennuvolat" };
+    }
+
+    if(d.actual.cobertura > 60){
+        return { icona:"⛅", text:"Parcialment ennuvolat" };
+    }
+
+    if(d.actual.cobertura > 20){
+        return { icona:"🌤️", text:"Poc ennuvolat" };
+    }
+
+    return { icona:"☀️", text:"Assolellat" };
 }
 
 function carregarDades(){
@@ -251,6 +253,14 @@ function carregarDades(){
     .then(r => r.json())
 
     .then(d => {
+
+        const c = obtenirCondicio(d);
+
+        document.getElementById("icona").textContent =
+            c.icona;
+
+        document.getElementById("condicio").textContent =
+            c.text;
 
         document.getElementById("temp").textContent =
             d.actual.temperatura.toFixed(1) + "°";
@@ -270,11 +280,11 @@ function carregarDades(){
         document.getElementById("ratxa").textContent =
             d.actual.ratxa.toFixed(1) + " km/h";
 
-        document.getElementById("radiacio").textContent =
-            d.actual.radiacio.toFixed(0) + " W/m²";
-
         document.getElementById("uv").textContent =
             d.actual.uv.toFixed(0);
+
+        document.getElementById("radiacio").textContent =
+            d.actual.radiacio.toFixed(0) + " W/m²";
 
         document.getElementById("cobertura").textContent =
             d.actual.cobertura.toFixed(0) + "%";
@@ -282,56 +292,40 @@ function carregarDades(){
         document.getElementById("nuvols").textContent =
             d.actual.base_nuvols.toFixed(0) + " m";
 
-        document.getElementById("pluja_hora").textContent =
-            d.pluja.hora.toFixed(1) + " mm";
-
-        document.getElementById("pluja_avui").textContent =
+        document.getElementById("pluja").textContent =
             d.pluja.avui.toFixed(1) + " mm";
 
-        document.getElementById("pluja_setmana").textContent =
-            d.pluja.setmana.toFixed(1) + " mm";
-
-        document.getElementById("pluja_any").textContent =
-            d.pluja.any.toFixed(1) + " mm";
-
-        document.getElementById("pred_pluja").textContent =
+        document.getElementById("predpluja").textContent =
             d.prediccio.pluja + "%";
 
-        document.getElementById("pred_tempesta").textContent =
+        document.getElementById("tempesta").textContent =
             d.prediccio.tempesta + "%";
 
-        document.getElementById("pred_neu").textContent =
+        document.getElementById("neu").textContent =
             d.prediccio.neu + "%";
 
         document.getElementById("lluna").textContent =
-            "🌙 " + d.astronomia.fase_lluna;
+            "🌙 " + tradueixLluna(d.astronomia.fase_lluna);
 
         document.getElementById("llumlluna").textContent =
-            "Il·luminació: " +
-            d.astronomia.llum_lluna.toFixed(0) + "%";
+            d.astronomia.llum_lluna.toFixed(0) +
+            "% il·luminada";
 
         document.getElementById("actualitzacio").textContent =
             "Actualitzat: " +
-            formatData(d.actualitzacio);
+            new Date(d.actualitzacio).toLocaleString("ca-ES");
 
     })
 
-    .catch(err => {
-
-        console.error(err);
-
-    });
+    .catch(err => console.error(err));
 
 }
 
 carregarDades();
 
-/* cada 5 segons */
+/* refresc cada 5 segons */
 
-setInterval(
-    carregarDades,
-    5000
-);
+setInterval(carregarDades, 5000);
 
 </script>
 
