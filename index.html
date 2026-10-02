@@ -167,12 +167,12 @@ body{
 }
 .stats{
     display:grid;
-    grid-template-columns:1fr 1fr;
-    gap:0;
-    max-width:700px;
-    margin:0 auto;
+    grid-template-columns:240px 240px;
+    justify-content:center;
+    gap:80px;
     position:relative;
 }
+
 
 .stats::before{
     content:"";
@@ -188,17 +188,12 @@ body{
     flex-direction:column;
     gap:24px;
 }
-.col:first-child{
-    padding-right:50px;
-}
 
-.col:last-child{
-    padding-left:50px;
-}
 .metrica{
     font-size:18px;
     font-weight:700;
     color:#9bd4ff;
+    width:240px;
 }
 
 .metrica span{
