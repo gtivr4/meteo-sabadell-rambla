@@ -41,9 +41,12 @@ body{
     margin-bottom:30px;
 }
 
-.icona{
-    font-size:90px;
-}
+#icona{
+    width:180px;
+    height:180px;
+    display:block;
+    margin:0 auto 15px;
+}    
 
 .temp{
     font-size:110px;
@@ -118,7 +121,7 @@ body{
 
     <div class="hero">
 
-        <div id="icona" class="icona">☁️</div>
+        <img id="icona" alt=""></div>
 
         <div id="temp" class="temp">--</div>
 
@@ -225,26 +228,6 @@ function tradueixLluna(fase){
     return fases[fase] || fase;
 }
 
-function obtenirCondicio(d){
-
-    if(d.pluja.hora > 0){
-        return { icona:"🌧️", text:"Plovent" };
-    }
-
-    if(d.actual.cobertura > 90){
-        return { icona:"☁️", text:"Molt ennuvolat" };
-    }
-
-    if(d.actual.cobertura > 60){
-        return { icona:"⛅", text:"Parcialment ennuvolat" };
-    }
-
-    if(d.actual.cobertura > 20){
-        return { icona:"🌤️", text:"Poc ennuvolat" };
-    }
-
-    return { icona:"☀️", text:"Assolellat" };
-}
 function getWeatherIcon(dades) {
 
   const cobertura = parseInt(dades.actual.cobertura || 0);
@@ -255,10 +238,8 @@ function getWeatherIcon(dades) {
   const uv = parseFloat(dades.actual.uv || 0);
   const temp = parseFloat(dades.actual.temperatura || 0);
   const cloudBase = parseFloat(dades.actual.base_nuvols || 9999);
-
-  const tempesta = parseInt(dades.probabilitat_tempesta || 0);
-  const neu = parseInt(dades.probabilitat_neu || 0);
-
+  const tempesta = parseInt(dades.prediccio.tempesta || 0);
+  const neu = parseInt(dades.prediccio.neu || 0);
   const hora = new Date();
   const nit = hora.getHours() < 7 || hora.getHours() >= 21;
 
@@ -523,13 +504,14 @@ function carregarDades(){
 
     .then(d => {
 
-        const c = obtenirCondicio(d);
-
-        document.getElementById("icona").textContent =
-            c.icona;
-
+        const icona = getWeatherIcon(d);
+        
+        document.getElementById("icona").src =
+            "icons/" + icona;
+        
         document.getElementById("condicio").textContent =
-            c.text;
+            icona.replace(".svg","")
+                 .replaceAll("-"," ");
 
         document.getElementById("temp").textContent =
             d.actual.temperatura.toFixed(1) + "°";
