@@ -227,7 +227,15 @@ body{
             <div class="label">Neu</div>
             <div id="neu" class="value">--</div>
         </div>
-
+        <div class="box">
+            <div class="label">Sortida sol</div>
+            <div id="sortida_sol" class="value">--</div>
+        </div>
+      
+        <div class="box">
+            <div class="label">Posta sol</div>
+            <div id="posta_sol" class="value">--</div>
+        </div>
     </div>
 
     <div id="actualitzacio" class="footer"></div>
@@ -306,7 +314,28 @@ function carregarDades(){
         
         document.getElementById("icona_lluna").innerHTML =
             `<i class="mdi ${mdi.replace('mdi:', 'mdi-')}"></i>`;
-        ``
+        document.getElementById("sortida_sol").textContent =
+            new Date(
+                d.astronomia.sortida_sol
+            ).toLocaleTimeString(
+                "ca-ES",
+                {
+                    hour:"2-digit",
+                    minute:"2-digit"
+                }
+            );
+      
+        document.getElementById("posta_sol").textContent =
+            new Date(
+                d.astronomia.posta_sol
+            ).toLocaleTimeString(
+                "ca-ES",
+                {
+                    hour:"2-digit",
+                    minute:"2-digit"
+                }
+            );
+              
         document.getElementById("actualitzacio").textContent =
             "Actualitzat: " +
             new Date(d.actualitzacio).toLocaleString("ca-ES");
