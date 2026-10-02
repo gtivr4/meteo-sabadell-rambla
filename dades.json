@@ -4,11 +4,11 @@
     "sensacio": 19.7,
     "humitat": 87.0,
     "pressio": 1024.5,
-    "vent": 0.7,
-    "ratxa": 0.0,
+    "vent": 1.1,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
-    "cobertura": 98.0,
+    "cobertura": 93.0,
     "base_nuvols": 275.0
   },
   "pluja": {
@@ -22,8 +22,8 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 1.4,
-    "ratxa": 1.8,
+    "vent": 2.5,
+    "ratxa": 3.6,
     "humitat": 88.0
   },
   "astronomia": {
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-03T00:58:11.018997+02:00"
+  "actualitzacio": "2026-10-03T00:58:41.021738+02:00"
 }
