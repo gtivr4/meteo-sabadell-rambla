@@ -281,6 +281,9 @@ function carregarDades(){
         document.getElementById("llumlluna").textContent =
             d.astronomia.llum_lluna.toFixed(0) +
             "% il·luminada";
+        
+        document.getElementById("icona_lluna").innerHTML =
+            `<ha-icon icon="${d.astronomia.icona_lluna}"></ha-icon>`;
 
         document.getElementById("actualitzacio").textContent =
             "Actualitzat: " +
