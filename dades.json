@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 19.6,
     "sensacio": 19.6,
-    "humitat": 87.0,
-    "pressio": 1024.9,
-    "vent": 1.4,
+    "humitat": 88.0,
+    "pressio": 1024.6,
+    "vent": 1.1,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 98.0,
-    "base_nuvols": 275.0
+    "base_nuvols": 250.0
   },
   "pluja": {
     "rati": 0.0,
@@ -24,12 +24,12 @@
     "rati_pluja": 0.0,
     "vent": 1.4,
     "ratxa": 1.8,
-    "humitat": 87.0
+    "humitat": 88.0
   },
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "illuminacio_lluna": 56.957207537093,
+    "illuminacio_lluna": 56.9490596642791,
     "sortida_sol": "2026-10-03T05:48:30.242720+00:00",
     "posta_sol": "2026-10-03T17:32:01.234759+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-03T00:05:40.926923+02:00"
+  "actualitzacio": "2026-10-03T00:06:10.929235+02:00"
 }
