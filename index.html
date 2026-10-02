@@ -253,13 +253,13 @@ function getWeatherIcon(dades) {
        TEMPESTA
     ===================== */
     
-    if (tempesta >= 80 && pluja >= 5)
+    if (tempesta >= 80 && rati >= 5)
       return 'thunderstorms-overcast-rain.svg';
     
     if (tempesta >= 80)
       return 'thunderstorms-overcast.svg';
     
-    if (tempesta >= 60 && pluja > 0)
+    if (tempesta >= 60 && rati > 0)
       return 'thunderstorms-rain.svg';
     
     if (tempesta >= 60)
@@ -398,8 +398,8 @@ function getWeatherIcon(dades) {
     ===================== */
     
     if (
-      humitat >= 90 &&
-      cobertura >= 60
+      humitat >= 85 &&
+      cobertura >= 80
     ) {
     
       if (nit)
@@ -407,22 +407,7 @@ function getWeatherIcon(dades) {
     
       return 'haze-day.svg';
     }
-    
-    
-    
-    /* =====================
-       HAZE
-    ===================== */
-    
-    if (
-      humitat >= 80 &&
-      cobertura >= 70
-    ) {
-      return 'haze.svg';
-    }
-    
-    
-    
+      
     /* =====================
        VENT MOLT FORT
     ===================== */
