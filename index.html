@@ -236,6 +236,7 @@ function tradueixLluna(fase){
 function getWeatherIcon(dades) {
 
   const cobertura = parseInt(dades.actual.cobertura || 0);
+  const rati = parseFloat(dades.pluja.rati || 0);
   const pluja = parseFloat(dades.pluja.hora || 0);
   const vent = parseFloat(dades.actual.vent || 0);
   const ratxa = parseFloat(dades.actual.ratxa || 0);
