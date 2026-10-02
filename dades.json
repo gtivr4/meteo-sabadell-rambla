@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 20.1,
-    "sensacio": 20.1,
-    "humitat": 72.0,
+    "temperatura": 20.2,
+    "sensacio": 20.2,
+    "humitat": 71.0,
     "pressio": 1024.2,
-    "vent": 2.2,
+    "vent": 1.4,
     "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 99.0,
-    "base_nuvols": 650.0
+    "base_nuvols": 675.0
   },
   "pluja": {
     "hora": 0.0,
@@ -28,5 +28,5 @@
     "tempesta": 20,
     "neu": 0
   },
-  "actualitzacio": "2026-10-02T05:23:08.032386+02:00"
+  "actualitzacio": "2026-10-02T05:23:40.067834+02:00"
 }
