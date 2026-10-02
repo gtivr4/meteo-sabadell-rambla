@@ -1,33 +1,33 @@
 {
   "actual": {
-    "temperatura": 0,
-    "sensacio": 0,
-    "humitat": 0,
-    "pressio": 0,
-    "vent": 0,
-    "ratxa": 0,
-    "radiacio": 0,
-    "uv": 0,
-    "cobertura": 0,
-    "base_nuvols": 9999
+    "temperatura": 19.6,
+    "sensacio": 19.6,
+    "humitat": 88.0,
+    "pressio": 1025.6,
+    "vent": 1.4,
+    "ratxa": 1.8,
+    "radiacio": 43.55,
+    "uv": 0.0,
+    "cobertura": 100.0,
+    "base_nuvols": 250.0
   },
   "pluja": {
-    "rati": 0,
+    "rati": 3.0,
     "hora": 0.2,
-    "avui": 0,
+    "avui": 2.5,
     "ahir": 0,
-    "setmana": 0,
-    "mes": 0,
-    "any": 0
+    "setmana": 36.3,
+    "mes": 2.5,
+    "any": 392.0
   },
   "astronomia": {
-    "fase_lluna": "unknown",
-    "llum_lluna": 0
+    "fase_lluna": "waning_gibbous",
+    "llum_lluna": 61.7989997772496
   },
   "prediccio": {
-    "pluja": 0,
-    "tempesta": 0,
+    "pluja": 80,
+    "tempesta": 42,
     "neu": 0
   },
-  "actualitzacio": "2026-10-02T14:04:52.039025+02:00"
+  "actualitzacio": "2026-10-02T14:05:23.749190+02:00"
 }
