@@ -5,7 +5,7 @@
     "humitat": 85.0,
     "pressio": 1024.5,
     "vent": 0.0,
-    "ratxa": 1.8,
+    "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 100.0,
@@ -23,7 +23,7 @@
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "llum_lluna": 58.5904853357875
+    "llum_lluna": 58.5823829567024
   },
   "prediccio": {
     "pluja": 68,
@@ -32,5 +32,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-02T20:44:40.431644+02:00"
+  "actualitzacio": "2026-10-02T20:45:10.469973+02:00"
 }
