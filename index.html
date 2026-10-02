@@ -165,6 +165,7 @@ body{
 .neu{
    color:#e1f5fe;
 }
+      
 .stats{
     display:grid;
     grid-template-columns:240px 240px;
@@ -172,8 +173,13 @@ body{
     gap:80px;
     position:relative;
 }
+#rati_bloc     { position:absolute; left:80px;  top:0; }
+#humitat_bloc  { position:absolute; left:80px;  top:110px; }
+#radiacio_bloc { position:absolute; left:80px;  top:220px; }
 
-
+#ratxa_bloc    { position:absolute; right:80px; top:0; }
+#vent_bloc     { position:absolute; right:80px; top:110px; }
+#uv_bloc       { position:absolute; right:80px; top:220px; }
 .stats::before{
     content:"";
     position:absolute;
