@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -135,7 +137,7 @@ body{
         </div>
     
         <div class="lluna">
-            <span id="icona_lluna">🌙</span>
+            <span id="icona_lluna"></span>
             <span id="lluna">--</span>
             ·
             <span id="llumlluna">--</span>
@@ -281,9 +283,11 @@ function carregarDades(){
         document.getElementById("llumlluna").textContent =
             d.astronomia.llum_lluna.toFixed(0) +
             "% il·luminada";
+                
+        const mdi = d.astronomia.icona_lluna;
         
         document.getElementById("icona_lluna").innerHTML =
-            `<ha-icon icon="${d.astronomia.icona_lluna}"></ha-icon>`;
+          `<i class="mdi ${mdi.replace('mdi:', 'mdi-')}"></i>`;
 
         document.getElementById("actualitzacio").textContent =
             "Actualitzat: " +
