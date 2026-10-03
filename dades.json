@@ -4,21 +4,21 @@
     "sensacio": 19.2,
     "humitat": 90.0,
     "pressio": 1023.4,
-    "vent": 1.1,
+    "vent": 1.4,
     "ratxa": 3.6,
-    "radiacio": 90.02,
+    "radiacio": 92.05,
     "uv": 0.0,
     "cobertura": 93.0,
     "base_nuvols": 212.0
   },
   "pluja": {
-    "rati": 0.0,
-    "hora": 0.3,
-    "avui": 6.9,
+    "rati": 1.2,
+    "hora": 0.5,
+    "avui": 7.1,
     "ahir": 0,
-    "setmana": 47.0,
-    "mes": 13.2,
-    "any": 402.7
+    "setmana": 47.2,
+    "mes": 13.4,
+    "any": 402.9
   },
   "maxims": {
     "rati_pluja": 18.0,
@@ -38,7 +38,7 @@
     "tempesta": 10,
     "neu": 0
   },
-  "condicio": "Boirina",
-  "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-03T15:17:12.737905+02:00"
+  "condicio": "Plugim",
+  "icona": "overcast-drizzle.svg",
+  "actualitzacio": "2026-10-03T15:17:42.737745+02:00"
 }
