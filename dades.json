@@ -4,7 +4,7 @@
     "sensacio": 18.4,
     "humitat": 93.0,
     "pressio": 1022.0,
-    "vent": 1.4,
+    "vent": 1.1,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,13 +12,13 @@
     "base_nuvols": 150.0
   },
   "pluja": {
-    "rati": 16.8,
-    "hora": 0.0,
-    "avui": 24.9,
+    "rati": 15.6,
+    "hora": 0.3,
+    "avui": 25.2,
     "ahir": 0,
-    "setmana": 65.0,
-    "mes": 31.2,
-    "any": 420.7
+    "setmana": 65.3,
+    "mes": 31.5,
+    "any": 421.0
   },
   "maxims": {
     "rati_pluja": 19.8,
@@ -40,5 +40,5 @@
   },
   "condicio": "Pluja forta",
   "icona": "overcast-night-rain.svg",
-  "actualitzacio": "2026-10-03T23:01:15.875044+02:00"
+  "actualitzacio": "2026-10-03T23:01:45.870585+02:00"
 }
