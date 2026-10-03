@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 19.6,
     "sensacio": 19.6,
-    "humitat": 84.0,
+    "humitat": 85.0,
     "pressio": 1022.3,
     "vent": 0.0,
-    "ratxa": 1.8,
+    "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 98.0,
-    "base_nuvols": 350.0
+    "base_nuvols": 325.0
   },
   "pluja": {
     "rati": 1.8,
@@ -40,5 +40,5 @@
   },
   "condicio": "Plugim",
   "icona": "overcast-night-drizzle.svg",
-  "actualitzacio": "2026-10-03T21:22:13.489052+02:00"
+  "actualitzacio": "2026-10-03T21:22:43.484106+02:00"
 }
