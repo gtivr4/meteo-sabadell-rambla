@@ -12,8 +12,8 @@
     "base_nuvols": 375.0
   },
   "pluja": {
-    "rati": 1.2,
-    "hora": 0.5,
+    "rati": 0.0,
+    "hora": 0.0,
     "avui": 13.7,
     "ahir": 0,
     "setmana": 53.8,
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "illuminacio_lluna": 46.660504466133,
+    "illuminacio_lluna": 46.6522940157589,
     "sortida_sol": "2026-10-04T05:49:33.912126+00:00",
     "posta_sol": "2026-10-04T17:30:20.428945+00:00"
   },
   "prediccio": {
-    "pluja": 30,
-    "tempesta": 20,
+    "pluja": 60,
+    "tempesta": 40,
     "neu": 0
   },
-  "condicio": "Plugim",
-  "icona": "overcast-night-drizzle.svg",
-  "actualitzacio": "2026-10-03T20:59:43.485514+02:00"
+  "condicio": "Molt ennuvolat",
+  "icona": "cloudy.svg",
+  "actualitzacio": "2026-10-03T21:00:13.424972+02:00"
 }
