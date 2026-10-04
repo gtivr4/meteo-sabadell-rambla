@@ -4,7 +4,7 @@
     "sensacio": 18.0,
     "humitat": 94.0,
     "pressio": 1019.6,
-    "vent": 2.9,
+    "vent": 0.4,
     "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,13 +12,13 @@
     "base_nuvols": 125.0
   },
   "pluja": {
-    "rati": 40.8,
-    "hora": 13.4,
-    "avui": 90.6,
+    "rati": 45.6,
+    "hora": 14.2,
+    "avui": 91.4,
     "ahir": 0,
-    "setmana": 163.8,
-    "mes": 130.0,
-    "any": 519.5
+    "setmana": 164.6,
+    "mes": 130.8,
+    "any": 520.3
   },
   "maxims": {
     "rati_pluja": 65.4,
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta amb pluja",
   "icona": "thunderstorms-night-rain.svg",
-  "actualitzacio": "2026-10-04T03:22:16.450604+02:00"
+  "actualitzacio": "2026-10-04T03:22:46.443952+02:00"
 }
