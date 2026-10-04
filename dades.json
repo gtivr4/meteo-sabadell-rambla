@@ -4,7 +4,7 @@
     "sensacio": 18.0,
     "humitat": 94.0,
     "pressio": 1020.2,
-    "vent": 6.8,
+    "vent": 6.5,
     "ratxa": 11.2,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,16 +12,16 @@
     "base_nuvols": 125.0
   },
   "pluja": {
-    "rati": 57.6,
-    "hora": 17.7,
-    "avui": 55.8,
+    "rati": 62.4,
+    "hora": 18.5,
+    "avui": 56.6,
     "ahir": 0,
-    "setmana": 129.0,
-    "mes": 95.2,
-    "any": 484.7
+    "setmana": 129.8,
+    "mes": 96.0,
+    "any": 485.5
   },
   "maxims": {
-    "rati_pluja": 59.4,
+    "rati_pluja": 62.4,
     "vent": 13.7,
     "ratxa": 22.0,
     "humitat": 94.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Pluja torrencial",
   "icona": "extreme-night-rain.svg",
-  "actualitzacio": "2026-10-04T02:32:16.355485+02:00"
+  "actualitzacio": "2026-10-04T02:32:46.367157+02:00"
 }
