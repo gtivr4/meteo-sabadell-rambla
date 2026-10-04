@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 19.1,
     "sensacio": 19.1,
-    "humitat": 86.0,
-    "pressio": 1021.2,
-    "vent": 2.2,
+    "humitat": 85.0,
+    "pressio": 1021.1,
+    "vent": 1.1,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 13.0,
-    "base_nuvols": 300.0
+    "base_nuvols": 325.0
   },
   "pluja": {
     "rati": 0.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-05T17:28:40.077561+00:00"
   },
   "prediccio": {
-    "pluja": 10,
+    "pluja": 8,
     "tempesta": 8,
     "neu": 0
   },
   "condicio": "Serena",
   "icona": "mostly-clear-night.svg",
-  "actualitzacio": "2026-10-04T22:43:30.908847+02:00"
+  "actualitzacio": "2026-10-04T22:44:00.898802+02:00"
 }
