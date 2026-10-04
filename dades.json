@@ -3,7 +3,7 @@
     "temperatura": 17.9,
     "sensacio": 17.9,
     "humitat": 94.0,
-    "pressio": 1019.7,
+    "pressio": 1020.0,
     "vent": 3.6,
     "ratxa": 13.0,
     "radiacio": 0.0,
@@ -12,13 +12,13 @@
     "base_nuvols": 125.0
   },
   "pluja": {
-    "rati": 46.8,
-    "hora": 33.2,
-    "avui": 71.3,
+    "rati": 42.6,
+    "hora": 33.7,
+    "avui": 71.8,
     "ahir": 0,
-    "setmana": 144.5,
-    "mes": 110.7,
-    "any": 500.2
+    "setmana": 145.0,
+    "mes": 111.2,
+    "any": 500.7
   },
   "maxims": {
     "rati_pluja": 65.4,
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "illuminacio_lluna": 43.7698317626837,
+    "illuminacio_lluna": 43.7616730538351,
     "sortida_sol": "2026-10-04T05:49:33.912126+00:00",
     "posta_sol": "2026-10-04T17:30:20.428945+00:00"
   },
   "prediccio": {
     "pluja": 90,
-    "tempesta": 50,
+    "tempesta": 40,
     "neu": 0
   },
   "condicio": "Pluja torrencial",
   "icona": "extreme-night-rain.svg",
-  "actualitzacio": "2026-10-04T02:52:46.400086+02:00"
+  "actualitzacio": "2026-10-04T02:53:16.400461+02:00"
 }
