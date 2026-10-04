@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 19.2,
     "sensacio": 19.2,
-    "humitat": 87.0,
+    "humitat": 86.0,
     "pressio": 1020.5,
-    "vent": 5.0,
-    "ratxa": 7.2,
-    "radiacio": 146.38,
+    "vent": 6.1,
+    "ratxa": 9.4,
+    "radiacio": 147.65,
     "uv": 1.0,
     "cobertura": 96.0,
-    "base_nuvols": 275.0
+    "base_nuvols": 300.0
   },
   "pluja": {
     "rati": 0.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-04T17:30:20.428945+00:00"
   },
   "prediccio": {
-    "pluja": 35,
-    "tempesta": 20,
+    "pluja": 25,
+    "tempesta": 10,
     "neu": 0
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-04T10:29:28.953176+02:00"
+  "actualitzacio": "2026-10-04T10:29:58.955596+02:00"
 }
