@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 21.4,
     "sensacio": 21.4,
-    "humitat": 79.0,
+    "humitat": 80.0,
     "pressio": 1019.9,
-    "vent": 0.7,
+    "vent": 1.4,
     "ratxa": 5.4,
-    "radiacio": 3.47,
+    "radiacio": 3.16,
     "uv": 0.0,
     "cobertura": 100.0,
-    "base_nuvols": 475.0
+    "base_nuvols": 450.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Molt ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-04T19:29:30.532695+02:00"
+  "actualitzacio": "2026-10-04T19:30:00.553322+02:00"
 }
