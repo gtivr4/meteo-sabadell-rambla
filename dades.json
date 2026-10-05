@@ -3,12 +3,12 @@
     "temperatura": 18.1,
     "sensacio": 18.1,
     "humitat": 90.0,
-    "pressio": 1020.1,
-    "vent": 1.4,
-    "ratxa": 1.8,
-    "radiacio": 118.21,
+    "pressio": 1020.0,
+    "vent": 2.9,
+    "ratxa": 3.6,
+    "radiacio": 121.39,
     "uv": 1.0,
-    "cobertura": 50.0,
+    "cobertura": 20.0,
     "base_nuvols": 213.0
   },
   "pluja": {
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-05T17:28:40.077561+00:00"
   },
   "prediccio": {
-    "pluja": 65,
+    "pluja": 42,
     "tempesta": 40,
     "neu": 0
   },
-  "condicio": "Poc núvol",
-  "icona": "partly-cloudy.svg",
-  "actualitzacio": "2026-10-05T12:20:38.136393+02:00"
+  "condicio": "Serena",
+  "icona": "mostly-clear.svg",
+  "actualitzacio": "2026-10-05T12:21:08.140161+02:00"
 }
