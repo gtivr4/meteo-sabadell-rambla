@@ -4,7 +4,7 @@
     "sensacio": 19.7,
     "humitat": 91.0,
     "pressio": 1012.9,
-    "vent": 0.4,
+    "vent": 1.4,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -22,7 +22,7 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 0.7,
+    "vent": 1.4,
     "ratxa": 1.8,
     "humitat": 91.0
   },
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-07T17:25:20.866056+00:00"
   },
   "prediccio": {
-    "pluja": 100,
-    "tempesta": 42,
+    "pluja": 90,
+    "tempesta": 32,
     "neu": 0
   },
-  "condicio": "Pluja sobre la zona",
+  "condicio": "Pluja allunyant-se",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-07T00:04:15.506521+02:00"
+  "actualitzacio": "2026-10-07T00:04:45.508966+02:00"
 }
