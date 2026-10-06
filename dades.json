@@ -12,7 +12,7 @@
     "base_nuvols": 212.0
   },
   "pluja": {
-    "rati": 1.8,
+    "rati": 0.0,
     "hora": 0,
     "avui": 3.1,
     "ahir": 0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 14.3700842440678,
+    "illuminacio_lluna": 14.3645104791093,
     "sortida_sol": "2026-10-07T05:52:46.414546+00:00",
     "posta_sol": "2026-10-07T17:25:20.866056+00:00"
   },
@@ -39,6 +39,6 @@
     "neu": 0
   },
   "condicio": "Pluja sobre la zona",
-  "icona": "thunderstorms-night-rain.svg",
-  "actualitzacio": "2026-10-06T23:29:45.444618+02:00"
+  "icona": "thunderstorms-night.svg",
+  "actualitzacio": "2026-10-06T23:30:15.455462+02:00"
 }
