@@ -3,10 +3,10 @@
     "temperatura": 20.7,
     "sensacio": 20.7,
     "humitat": 88.0,
-    "pressio": 1013.4,
+    "pressio": 1013.5,
     "vent": 0.0,
     "ratxa": 0.0,
-    "radiacio": 0.02,
+    "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 100.0,
     "base_nuvols": 262.0
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 15.3652516643499,
+    "illuminacio_lluna": 15.3595075236047,
     "sortida_sol": "2026-10-07T05:52:46.414546+00:00",
     "posta_sol": "2026-10-07T17:25:20.866056+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta amb pluja",
   "icona": "thunderstorms-overcast-night.svg",
-  "actualitzacio": "2026-10-06T20:33:57.786325+02:00"
+  "actualitzacio": "2026-10-06T20:34:27.798113+02:00"
 }
