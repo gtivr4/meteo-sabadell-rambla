@@ -3,10 +3,10 @@
     "temperatura": 19.2,
     "sensacio": 19.2,
     "humitat": 85.0,
-    "pressio": 1018.0,
-    "vent": 0.7,
+    "pressio": 1017.9,
+    "vent": 1.4,
     "ratxa": 1.8,
-    "radiacio": 150.14,
+    "radiacio": 153.99,
     "uv": 1.0,
     "cobertura": 99.0,
     "base_nuvols": 325.0
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 19.0198553561234,
+    "illuminacio_lluna": 19.0135549645316,
     "sortida_sol": "2026-10-07T05:52:46.414546+00:00",
     "posta_sol": "2026-10-06T17:27:00.212538+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-06T10:27:34.053459+02:00"
+  "actualitzacio": "2026-10-06T10:28:04.052240+02:00"
 }
