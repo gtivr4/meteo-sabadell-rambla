@@ -1,10 +1,10 @@
 {
   "actual": {
-    "temperatura": 19.8,
-    "sensacio": 19.8,
+    "temperatura": 19.7,
+    "sensacio": 19.7,
     "humitat": 90.0,
     "pressio": 1013.1,
-    "vent": 1.1,
+    "vent": 0.7,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 100,
-    "tempesta": 42,
+    "tempesta": 62,
     "neu": 0
   },
   "condicio": "Pluja sobre la zona",
-  "icona": "overcast-night-drizzle.svg",
-  "actualitzacio": "2026-10-06T23:22:15.442895+02:00"
+  "icona": "thunderstorms-night-rain.svg",
+  "actualitzacio": "2026-10-06T23:22:45.439838+02:00"
 }
