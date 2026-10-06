@@ -4,7 +4,7 @@
     "sensacio": 20.1,
     "humitat": 91.0,
     "pressio": 1013.1,
-    "vent": 1.4,
+    "vent": 1.8,
     "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,13 +12,13 @@
     "base_nuvols": 188.0
   },
   "pluja": {
-    "rati": 0.0,
+    "rati": 1.8,
     "hora": 0,
-    "avui": 1.8,
+    "avui": 2.1,
     "ahir": 0,
-    "setmana": 28.2,
-    "mes": 224.0,
-    "any": 613.5
+    "setmana": 28.5,
+    "mes": 224.3,
+    "any": 613.8
   },
   "maxims": {
     "rati_pluja": 4.8,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 15.0246940167674,
+    "illuminacio_lluna": 15.0190070731235,
     "sortida_sol": "2026-10-07T05:52:46.414546+00:00",
     "posta_sol": "2026-10-07T17:25:20.866056+00:00"
   },
@@ -38,7 +38,7 @@
     "tempesta": 100,
     "neu": 0
   },
-  "condicio": "Boirina",
+  "condicio": "Plugim",
   "icona": "thunderstorms-overcast-night.svg",
-  "actualitzacio": "2026-10-06T21:33:30.181231+02:00"
+  "actualitzacio": "2026-10-06T21:34:00.211862+02:00"
 }
