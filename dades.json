@@ -9,7 +9,7 @@
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 0.0,
-    "base_nuvols": 975.0
+    "base_nuvols": 938.0
   },
   "pluja": {
     "rati": 0.0,
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 7.50963985865578,
+    "illuminacio_lluna": 7.505548500496,
     "sortida_sol": "2026-10-08T05:53:51.109076+00:00",
     "posta_sol": "2026-10-08T17:23:42.070546+00:00"
   },
   "prediccio": {
-    "pluja": 2,
-    "tempesta": 0,
+    "pluja": 12,
+    "tempesta": 5,
     "neu": 0
   },
-  "condicio": "Activitat disminuint",
+  "condicio": "Cel net",
   "icona": "clear-night.svg",
-  "actualitzacio": "2026-10-07T23:05:14.348395+02:00"
+  "actualitzacio": "2026-10-07T23:05:44.354142+02:00"
 }
