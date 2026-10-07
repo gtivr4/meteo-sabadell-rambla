@@ -1,10 +1,10 @@
 {
   "actual": {
-    "temperatura": 21.1,
-    "sensacio": 21.1,
+    "temperatura": 21.0,
+    "sensacio": 21.0,
     "humitat": 59.0,
-    "pressio": 1011.4,
-    "vent": 4.3,
+    "pressio": 1011.3,
+    "vent": 2.5,
     "ratxa": 5.4,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -38,7 +38,7 @@
     "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Activitat disminuint",
-  "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-07T21:48:38.394259+02:00"
+  "condicio": "Cel net",
+  "icona": "clear-night.svg",
+  "actualitzacio": "2026-10-07T21:49:08.392047+02:00"
 }
