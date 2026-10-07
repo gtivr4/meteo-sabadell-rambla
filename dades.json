@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 23.0,
-    "sensacio": 23.0,
+    "temperatura": 22.9,
+    "sensacio": 22.9,
     "humitat": 55.0,
     "pressio": 1009.8,
-    "vent": 1.1,
-    "ratxa": 1.8,
-    "radiacio": 0.47,
+    "vent": 3.2,
+    "ratxa": 5.4,
+    "radiacio": 0.36,
     "uv": 0.0,
     "cobertura": 22.0,
-    "base_nuvols": 1188.0
+    "base_nuvols": 1187.0
   },
   "pluja": {
     "rati": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 8.38028017214159,
+    "illuminacio_lluna": 8.3759637076011,
     "sortida_sol": "2026-10-08T05:53:51.109076+00:00",
     "posta_sol": "2026-10-08T17:23:42.070546+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Pluja aproximant-se",
   "icona": "overcast-rain.svg",
-  "actualitzacio": "2026-10-07T19:38:07.891618+02:00"
+  "actualitzacio": "2026-10-07T19:38:37.893432+02:00"
 }
