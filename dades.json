@@ -1,12 +1,12 @@
 {
   "actual": {
-    "temperatura": 24.0,
-    "sensacio": 24.0,
+    "temperatura": 24.1,
+    "sensacio": 24.1,
     "humitat": 60.0,
     "pressio": 1008.5,
-    "vent": 2.5,
+    "vent": 3.6,
     "ratxa": 7.2,
-    "radiacio": 315.5,
+    "radiacio": 309.5,
     "uv": 3.0,
     "cobertura": 58.0,
     "base_nuvols": 1025.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Pluja sobre la zona",
   "icona": "partly-cloudy.svg",
-  "actualitzacio": "2026-10-07T16:57:15.698144+02:00"
+  "actualitzacio": "2026-10-07T16:57:45.699751+02:00"
 }
