@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 23.0,
     "sensacio": 23.0,
-    "humitat": 55.0,
-    "pressio": 1009.8,
-    "vent": 2.9,
-    "ratxa": 5.4,
-    "radiacio": 0.68,
+    "humitat": 54.0,
+    "pressio": 1009.9,
+    "vent": 1.1,
+    "ratxa": 3.6,
+    "radiacio": 0.65,
     "uv": 0.0,
     "cobertura": 22.0,
-    "base_nuvols": 1188.0
+    "base_nuvols": 1225.0
   },
   "pluja": {
     "rati": 0.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-08T17:23:42.070546+00:00"
   },
   "prediccio": {
-    "pluja": 8,
+    "pluja": 4,
     "tempesta": 0,
     "neu": 0
   },
   "condicio": "Activitat disminuint",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-07T19:35:37.881053+02:00"
+  "actualitzacio": "2026-10-07T19:36:07.890719+02:00"
 }
