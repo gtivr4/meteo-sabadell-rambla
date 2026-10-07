@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 23.9,
     "sensacio": 23.9,
-    "humitat": 60.0,
+    "humitat": 61.0,
     "pressio": 1009.7,
-    "vent": 3.2,
+    "vent": 4.0,
     "ratxa": 9.4,
-    "radiacio": 68.27,
+    "radiacio": 69.19,
     "uv": 0.0,
     "cobertura": 17.0,
-    "base_nuvols": 1025.0
+    "base_nuvols": 1000.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Activitat augmentant",
   "icona": "overcast-rain.svg",
-  "actualitzacio": "2026-10-07T13:50:39.849339+02:00"
+  "actualitzacio": "2026-10-07T13:51:09.844830+02:00"
 }
