@@ -4,7 +4,7 @@
     "sensacio": 16.1,
     "humitat": 87.0,
     "pressio": 1018.4,
-    "vent": 0.4,
+    "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 90,
-    "tempesta": 64,
+    "tempesta": 34,
     "neu": 0
   },
-  "condicio": "Possibilitat de tempesta",
-  "icona": "thunderstorms-night.svg",
-  "actualitzacio": "2026-10-08T21:01:04.959397+02:00"
+  "condicio": "Molt ennuvolat",
+  "icona": "overcast.svg",
+  "actualitzacio": "2026-10-08T21:01:34.960229+02:00"
 }
