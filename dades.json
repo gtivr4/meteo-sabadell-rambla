@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 16.7,
-    "sensacio": 16.7,
-    "humitat": 84.0,
+    "temperatura": 16.6,
+    "sensacio": 16.6,
+    "humitat": 85.0,
     "pressio": 1018.2,
-    "vent": 1.1,
-    "ratxa": 1.8,
+    "vent": 2.9,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 82.0,
-    "base_nuvols": 337.0
+    "base_nuvols": 313.0
   },
   "pluja": {
     "rati": 27.6,
@@ -24,7 +24,7 @@
     "rati_pluja": 27.6,
     "vent": 9.7,
     "ratxa": 14.8,
-    "humitat": 84.0
+    "humitat": 85.0
   },
   "astronomia": {
     "fase_lluna": "Minvant",
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta amb pluja",
   "icona": "thunderstorms-night-rain.svg",
-  "actualitzacio": "2026-10-08T20:33:04.910910+02:00"
+  "actualitzacio": "2026-10-08T20:33:34.911653+02:00"
 }
