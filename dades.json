@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 17.3,
     "sensacio": 17.3,
-    "humitat": 80.0,
+    "humitat": 81.0,
     "pressio": 1017.9,
-    "vent": 1.1,
-    "ratxa": 3.6,
+    "vent": 0.0,
+    "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 82.0,
-    "base_nuvols": 438.0
+    "base_nuvols": 413.0
   },
   "pluja": {
     "rati": 1.2,
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta amb pluja",
   "icona": "thunderstorms-night-rain.svg",
-  "actualitzacio": "2026-10-08T20:21:04.889081+02:00"
+  "actualitzacio": "2026-10-08T20:21:34.893476+02:00"
 }
