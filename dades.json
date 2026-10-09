@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 20.6,
-    "sensacio": 20.6,
-    "humitat": 43.0,
+    "temperatura": 20.8,
+    "sensacio": 20.8,
+    "humitat": 42.0,
     "pressio": 1018.4,
-    "vent": 0.4,
-    "ratxa": 1.8,
-    "radiacio": 266.87,
+    "vent": 3.2,
+    "ratxa": 7.2,
+    "radiacio": 249.48,
     "uv": 2.0,
     "cobertura": 22.0,
-    "base_nuvols": 1625.0
+    "base_nuvols": 1675.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Poc ennuvolat",
   "icona": "mostly-clear.svg",
-  "actualitzacio": "2026-10-09T17:12:01.771632+02:00"
+  "actualitzacio": "2026-10-09T17:12:31.777486+02:00"
 }
