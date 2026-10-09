@@ -3,7 +3,7 @@
     "temperatura": 21.4,
     "sensacio": 21.4,
     "humitat": 43.0,
-    "pressio": 1018.0,
+    "pressio": 1018.2,
     "vent": 2.2,
     "ratxa": 3.6,
     "radiacio": 184.17,
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Lluna nova",
     "icona_lluna": "mdi:moon-new",
-    "illuminacio_lluna": 0.736819070024608,
+    "illuminacio_lluna": 0.735629061952997,
     "sortida_sol": "2026-10-10T05:56:01.336267+00:00",
     "posta_sol": "2026-10-09T17:22:03.858699+00:00"
   },
   "prediccio": {
-    "pluja": 4,
-    "tempesta": 2,
+    "pluja": 0,
+    "tempesta": 0,
     "neu": 0
   },
   "condicio": "Poc ennuvolat",
   "icona": "mostly-clear.svg",
-  "actualitzacio": "2026-10-09T17:47:31.826931+02:00"
+  "actualitzacio": "2026-10-09T17:48:01.822966+02:00"
 }
