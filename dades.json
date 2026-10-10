@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 24.2,
     "sensacio": 24.2,
-    "humitat": 36.0,
+    "humitat": 35.0,
     "pressio": 1014.9,
-    "vent": 1.4,
-    "ratxa": 9.4,
-    "radiacio": 49.79,
+    "vent": 3.6,
+    "ratxa": 5.4,
+    "radiacio": 49.72,
     "uv": 0.0,
     "cobertura": 0.0,
-    "base_nuvols": 2000.0
+    "base_nuvols": 2050.0
   },
   "pluja": {
     "rati": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Lluna nova",
     "icona_lluna": "mdi:moon-new",
-    "illuminacio_lluna": 0.135974687695339,
+    "illuminacio_lluna": 0.136271281750378,
     "sortida_sol": "2026-10-11T05:57:06.882991+00:00",
     "posta_sol": "2026-10-10T17:20:26.263464+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-10-10T16:37:23.318187+02:00"
+  "actualitzacio": "2026-10-10T16:37:53.332594+02:00"
 }
