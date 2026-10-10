@@ -1,12 +1,12 @@
 {
   "actual": {
-    "temperatura": 24.1,
-    "sensacio": 24.1,
+    "temperatura": 24.0,
+    "sensacio": 24.0,
     "humitat": 37.0,
     "pressio": 1015.6,
-    "vent": 2.2,
-    "ratxa": 3.6,
-    "radiacio": 53.88,
+    "vent": 4.0,
+    "ratxa": 7.2,
+    "radiacio": 53.78,
     "uv": 0.0,
     "cobertura": 0.0,
     "base_nuvols": 1950.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-10-10T15:29:53.196753+02:00"
+  "actualitzacio": "2026-10-10T15:30:23.200722+02:00"
 }
