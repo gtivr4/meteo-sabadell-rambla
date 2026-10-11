@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 23.4,
     "sensacio": 23.4,
-    "humitat": 54.0,
-    "pressio": 1012.8,
-    "vent": 0.7,
+    "humitat": 53.0,
+    "pressio": 1012.6,
+    "vent": 1.1,
     "ratxa": 1.8,
-    "radiacio": 225.15,
+    "radiacio": 222.82,
     "uv": 2.0,
     "cobertura": 18.0,
-    "base_nuvols": 1225.0
+    "base_nuvols": 1262.0
   },
   "pluja": {
     "rati": 0.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-11T17:18:49.318051+00:00"
   },
   "prediccio": {
-    "pluja": 4,
-    "tempesta": 0,
+    "pluja": 9,
+    "tempesta": 2,
     "neu": 0
   },
   "condicio": "Poc ennuvolat",
   "icona": "mostly-clear.svg",
-  "actualitzacio": "2026-10-11T17:21:38.077469+02:00"
+  "actualitzacio": "2026-10-11T17:22:08.080589+02:00"
 }
