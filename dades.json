@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 18.1,
     "sensacio": 18.1,
-    "humitat": 84.0,
+    "humitat": 85.0,
     "pressio": 1026.0,
     "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 29.0,
-    "base_nuvols": 338.0
+    "base_nuvols": 325.0
   },
   "pluja": {
     "rati": 0.0,
@@ -24,7 +24,7 @@
     "rati_pluja": 0.0,
     "vent": 2.2,
     "ratxa": 1.8,
-    "humitat": 84.0
+    "humitat": 85.0
   },
   "astronomia": {
     "fase_lluna": "Creixent",
@@ -40,5 +40,5 @@
   },
   "condicio": "Mig ennuvolat",
   "icona": "partly-cloudy-night.svg",
-  "actualitzacio": "2026-10-14T04:28:17.284635+02:00"
+  "actualitzacio": "2026-10-14T04:28:47.282291+02:00"
 }
