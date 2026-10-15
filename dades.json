@@ -3,10 +3,10 @@
     "temperatura": 16.3,
     "sensacio": 16.3,
     "humitat": 90.0,
-    "pressio": 1025.0,
+    "pressio": 1025.1,
     "vent": 0.0,
-    "ratxa": 1.8,
-    "radiacio": 0.01,
+    "ratxa": 0.0,
+    "radiacio": 0.02,
     "uv": 0.0,
     "cobertura": 82.0,
     "base_nuvols": 200.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-15T07:35:50.898972+02:00"
+  "actualitzacio": "2026-10-15T07:36:20.897141+02:00"
 }
