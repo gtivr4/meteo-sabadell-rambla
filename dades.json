@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 18.0,
     "sensacio": 18.0,
-    "humitat": 82.0,
-    "pressio": 1026.0,
-    "vent": 0.4,
+    "humitat": 83.0,
+    "pressio": 1025.9,
+    "vent": 0.0,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 0.0,
-    "base_nuvols": 387.0
+    "base_nuvols": 363.0
   },
   "pluja": {
     "rati": 0.0,
@@ -24,7 +24,7 @@
     "rati_pluja": 0.0,
     "vent": 2.9,
     "ratxa": 3.6,
-    "humitat": 82.0
+    "humitat": 83.0
   },
   "astronomia": {
     "fase_lluna": "Creixent",
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 7,
-    "tempesta": 0,
+    "tempesta": 7,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-night.svg",
-  "actualitzacio": "2026-10-15T03:05:50.325953+02:00"
+  "actualitzacio": "2026-10-15T03:06:20.332488+02:00"
 }
