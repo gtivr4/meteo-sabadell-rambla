@@ -4,9 +4,9 @@
     "sensacio": 20.0,
     "humitat": 85.0,
     "pressio": 1021.5,
-    "vent": 0.4,
-    "ratxa": 0.0,
-    "radiacio": 65.14,
+    "vent": 1.8,
+    "ratxa": 1.8,
+    "radiacio": 64.29,
     "uv": 0.0,
     "cobertura": 86.0,
     "base_nuvols": 325.0
@@ -22,7 +22,7 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 1.4,
+    "vent": 1.8,
     "ratxa": 1.8,
     "humitat": 89.0
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Molt ennuvolat",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-16T09:28:09.099691+02:00"
+  "actualitzacio": "2026-10-16T09:28:39.102082+02:00"
 }
