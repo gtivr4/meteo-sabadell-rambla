@@ -3,7 +3,7 @@
     "temperatura": 19.7,
     "sensacio": 19.7,
     "humitat": 88.0,
-    "pressio": 1019.0,
+    "pressio": 1018.8,
     "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
@@ -22,9 +22,9 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 8.3,
-    "ratxa": 9.4,
-    "humitat": 90.0
+    "vent": 0.0,
+    "ratxa": 0.0,
+    "humitat": 88.0
   },
   "astronomia": {
     "fase_lluna": "Creixent",
@@ -40,5 +40,5 @@
   },
   "condicio": "Molt ennuvolat",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-16T23:59:37.754731+02:00"
+  "actualitzacio": "2026-10-17T00:00:07.750971+02:00"
 }
