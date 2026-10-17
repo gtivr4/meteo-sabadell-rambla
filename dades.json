@@ -4,7 +4,7 @@
     "sensacio": 17.2,
     "humitat": 89.0,
     "pressio": 1015.6,
-    "vent": 1.1,
+    "vent": 0.4,
     "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,13 +12,13 @@
     "base_nuvols": 225.0
   },
   "pluja": {
-    "rati": 9.0,
-    "hora": 1.8,
-    "avui": 3.0,
+    "rati": 10.8,
+    "hora": 2.1,
+    "avui": 3.3,
     "ahir": 0,
-    "setmana": 3.8,
-    "mes": 235.7,
-    "any": 625.2
+    "setmana": 4.1,
+    "mes": 236.0,
+    "any": 625.5
   },
   "maxims": {
     "rati_pluja": 10.8,
@@ -38,7 +38,7 @@
     "tempesta": 90,
     "neu": 0
   },
-  "condicio": "Tempesta forta",
-  "icona": "thunderstorms-overcast-night-rain.svg",
-  "actualitzacio": "2026-10-18T01:12:19.273527+02:00"
+  "condicio": "Calamarsa",
+  "icona": "hail.svg",
+  "actualitzacio": "2026-10-18T01:12:49.286985+02:00"
 }
