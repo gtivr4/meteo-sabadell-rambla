@@ -3,8 +3,8 @@
     "temperatura": 18.1,
     "sensacio": 18.1,
     "humitat": 83.0,
-    "pressio": 1015.7,
-    "vent": 2.9,
+    "pressio": 1015.8,
+    "vent": 1.1,
     "ratxa": 5.4,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 100,
-    "tempesta": 75,
+    "tempesta": 95,
     "neu": 0
   },
-  "condicio": "Possibilitat de tempesta",
-  "icona": "thunderstorms-night.svg",
-  "actualitzacio": "2026-10-17T22:19:41.371098+02:00"
+  "condicio": "Tempesta seca",
+  "icona": "thunderstorms-overcast-night.svg",
+  "actualitzacio": "2026-10-17T22:20:11.381465+02:00"
 }
