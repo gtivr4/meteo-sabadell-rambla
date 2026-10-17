@@ -3,9 +3,9 @@
     "temperatura": 17.7,
     "sensacio": 17.7,
     "humitat": 88.0,
-    "pressio": 1015.9,
-    "vent": 0.0,
-    "ratxa": 1.8,
+    "pressio": 1016.1,
+    "vent": 0.4,
+    "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 96.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-18T17:07:51.739186+00:00"
   },
   "prediccio": {
-    "pluja": 100,
-    "tempesta": 88,
+    "pluja": 90,
+    "tempesta": 18,
     "neu": 0
   },
-  "condicio": "Tempesta seca",
-  "icona": "thunderstorms-overcast-night.svg",
-  "actualitzacio": "2026-10-17T23:16:41.509070+02:00"
+  "condicio": "Plugim",
+  "icona": "overcast-night-drizzle.svg",
+  "actualitzacio": "2026-10-17T23:17:11.476937+02:00"
 }
