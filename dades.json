@@ -1,12 +1,12 @@
 {
   "actual": {
-    "temperatura": 15.9,
-    "sensacio": 15.9,
+    "temperatura": 16.0,
+    "sensacio": 16.0,
     "humitat": 95.0,
     "pressio": 1018.2,
     "vent": 0.4,
-    "ratxa": 0.0,
-    "radiacio": 38.8,
+    "ratxa": 1.8,
+    "radiacio": 39.28,
     "uv": 0.0,
     "cobertura": 59.0,
     "base_nuvols": 100.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Boira",
   "icona": "fog.svg",
-  "actualitzacio": "2026-10-17T09:02:39.450107+02:00"
+  "actualitzacio": "2026-10-17T09:03:09.449289+02:00"
 }
