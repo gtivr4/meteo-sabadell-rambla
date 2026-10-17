@@ -4,7 +4,7 @@
     "sensacio": 17.1,
     "humitat": 89.0,
     "pressio": 1015.6,
-    "vent": 0.0,
+    "vent": 1.1,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,13 +12,13 @@
     "base_nuvols": 225.0
   },
   "pluja": {
-    "rati": 9.6,
-    "hora": 2.1,
-    "avui": 3.3,
+    "rati": 10.8,
+    "hora": 2.3,
+    "avui": 3.5,
     "ahir": 0,
-    "setmana": 4.1,
-    "mes": 236.0,
-    "any": 625.5
+    "setmana": 4.3,
+    "mes": 236.2,
+    "any": 625.7
   },
   "maxims": {
     "rati_pluja": 10.8,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Quart creixent",
     "icona_lluna": "mdi:moon-first-quarter",
-    "illuminacio_lluna": 44.7510035832346,
+    "illuminacio_lluna": 44.7575051395121,
     "sortida_sol": "2026-10-18T06:04:54.287637+00:00",
     "posta_sol": "2026-10-18T17:07:51.739186+00:00"
   },
@@ -38,7 +38,7 @@
     "tempesta": 90,
     "neu": 0
   },
-  "condicio": "Tempesta forta",
-  "icona": "thunderstorms-overcast-night-rain.svg",
-  "actualitzacio": "2026-10-18T01:13:49.290075+02:00"
+  "condicio": "Calamarsa",
+  "icona": "hail.svg",
+  "actualitzacio": "2026-10-18T01:14:19.281266+02:00"
 }
