@@ -1,24 +1,24 @@
 {
   "actual": {
-    "temperatura": 16.0,
-    "sensacio": 16.0,
-    "humitat": 90.0,
-    "pressio": 1009.0,
-    "vent": 5.0,
-    "ratxa": 9.4,
-    "radiacio": 0.0,
-    "uv": 0.0,
-    "cobertura": 99.0,
-    "base_nuvols": 200.0
+    "temperatura": 0,
+    "sensacio": 0,
+    "humitat": 0,
+    "pressio": 0,
+    "vent": 0,
+    "ratxa": 0,
+    "radiacio": 0,
+    "uv": 0,
+    "cobertura": 0,
+    "base_nuvols": 9999
   },
   "pluja": {
-    "rati": 15.6,
+    "rati": 0,
     "hora": 2.6,
-    "avui": 17.3,
+    "avui": 0,
     "ahir": 0,
-    "setmana": 17.3,
-    "mes": 259.1,
-    "any": 648.6
+    "setmana": 0,
+    "mes": 0,
+    "any": 0
   },
   "maxims": {
     "rati_pluja": 15.6,
@@ -27,18 +27,18 @@
     "humitat": 91.0
   },
   "astronomia": {
-    "fase_lluna": "Gibosa creixent",
-    "icona_lluna": "mdi:moon-waxing-gibbous",
-    "illuminacio_lluna": 61.4254420363692,
+    "fase_lluna": "",
+    "icona_lluna": "mdi:moon-full",
+    "illuminacio_lluna": 0,
     "sortida_sol": "2026-10-20T06:07:10.678682+00:00",
     "posta_sol": "2026-10-20T17:04:51.658477+00:00"
   },
   "prediccio": {
-    "pluja": 100,
-    "tempesta": 85,
+    "pluja": 0,
+    "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Tempesta forta amb pluja",
-  "icona": "thunderstorms-overcast-night-rain.svg",
-  "actualitzacio": "2026-10-19T19:31:38.701656+02:00"
+  "condicio": "",
+  "icona": "",
+  "actualitzacio": "2026-10-19T19:32:44.279240+02:00"
 }
