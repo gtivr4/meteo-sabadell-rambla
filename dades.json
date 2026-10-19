@@ -6,19 +6,19 @@
     "pressio": 1011.6,
     "vent": 2.2,
     "ratxa": 1.8,
-    "radiacio": 28.83,
+    "radiacio": 27.94,
     "uv": 0.0,
     "cobertura": 100.0,
     "base_nuvols": 250.0
   },
   "pluja": {
-    "rati": 0.0,
-    "hora": 0.0,
-    "avui": 8.1,
+    "rati": 1.8,
+    "hora": 0.3,
+    "avui": 8.4,
     "ahir": 0,
-    "setmana": 8.1,
-    "mes": 249.9,
-    "any": 639.4
+    "setmana": 8.4,
+    "mes": 250.2,
+    "any": 639.7
   },
   "maxims": {
     "rati_pluja": 9.6,
@@ -38,7 +38,7 @@
     "tempesta": 75,
     "neu": 0
   },
-  "condicio": "Possibilitat de tempesta",
-  "icona": "thunderstorms.svg",
-  "actualitzacio": "2026-10-19T14:15:37.408239+02:00"
+  "condicio": "Tempesta amb pluja",
+  "icona": "thunderstorms-rain.svg",
+  "actualitzacio": "2026-10-19T14:16:07.321273+02:00"
 }
