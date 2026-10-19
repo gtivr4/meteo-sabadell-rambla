@@ -3,8 +3,8 @@
     "temperatura": 13.7,
     "sensacio": 13.7,
     "humitat": 82.0,
-    "pressio": 1015.1,
-    "vent": 0.7,
+    "pressio": 1015.4,
+    "vent": 1.8,
     "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 100,
-    "tempesta": 63,
+    "tempesta": 59,
     "neu": 0
   },
-  "condicio": "Tempesta amb pluja",
-  "icona": "thunderstorms-night-rain.svg",
-  "actualitzacio": "2026-10-19T06:44:24.391158+02:00"
+  "condicio": "Plugim",
+  "icona": "overcast-night-drizzle.svg",
+  "actualitzacio": "2026-10-19T06:44:54.386041+02:00"
 }
