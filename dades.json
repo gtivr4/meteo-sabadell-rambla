@@ -3,16 +3,16 @@
     "temperatura": 15.7,
     "sensacio": 15.7,
     "humitat": 88.0,
-    "pressio": 1012.0,
-    "vent": 2.5,
-    "ratxa": 3.6,
-    "radiacio": 56.49,
+    "pressio": 1011.5,
+    "vent": 3.6,
+    "ratxa": 5.4,
+    "radiacio": 50.25,
     "uv": 0.0,
     "cobertura": 100.0,
     "base_nuvols": 250.0
   },
   "pluja": {
-    "rati": 1.8,
+    "rati": 0.0,
     "hora": 2.3,
     "avui": 7.9,
     "ahir": 0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta severa",
   "icona": "severe-thunderstorm.svg",
-  "actualitzacio": "2026-10-19T13:54:49.225811+02:00"
+  "actualitzacio": "2026-10-19T13:55:19.230219+02:00"
 }
