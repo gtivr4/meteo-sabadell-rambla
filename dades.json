@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 16.1,
     "sensacio": 16.1,
-    "humitat": 90.0,
+    "humitat": 91.0,
     "pressio": 1009.7,
     "vent": 1.1,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 100.0,
-    "base_nuvols": 200.0
+    "base_nuvols": 188.0
   },
   "pluja": {
     "rati": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Gibosa creixent",
     "icona_lluna": "mdi:moon-waxing-gibbous",
-    "illuminacio_lluna": 62.1476481215995,
+    "illuminacio_lluna": 62.1541631062089,
     "sortida_sol": "2026-10-20T06:07:10.678682+00:00",
     "posta_sol": "2026-10-20T17:04:51.658477+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-19T21:22:46.385685+02:00"
+  "actualitzacio": "2026-10-19T21:23:16.392584+02:00"
 }
