@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 17.7,
-    "sensacio": 17.7,
-    "humitat": 51.0,
+    "temperatura": 17.8,
+    "sensacio": 17.8,
+    "humitat": 50.0,
     "pressio": 1016.1,
-    "vent": 2.9,
-    "ratxa": 5.4,
-    "radiacio": 40.82,
+    "vent": 5.0,
+    "ratxa": 7.2,
+    "radiacio": 40.84,
     "uv": 0.0,
     "cobertura": 0.0,
-    "base_nuvols": 1287.0
+    "base_nuvols": 1325.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-10-21T12:45:07.698750+02:00"
+  "actualitzacio": "2026-10-21T12:45:37.698271+02:00"
 }
