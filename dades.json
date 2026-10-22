@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 14.4,
-    "sensacio": 14.4,
-    "humitat": 59.0,
+    "temperatura": 14.3,
+    "sensacio": 14.3,
+    "humitat": 60.0,
     "pressio": 1023.9,
     "vent": 1.1,
     "ratxa": 1.8,
-    "radiacio": 167.73,
+    "radiacio": 169.47,
     "uv": 1.0,
     "cobertura": 99.0,
-    "base_nuvols": 988.0
+    "base_nuvols": 963.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-22T11:59:28.116053+02:00"
+  "actualitzacio": "2026-10-22T11:59:58.113551+02:00"
 }
