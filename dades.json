@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 10.9,
     "sensacio": 10.9,
-    "humitat": 71.0,
-    "pressio": 1023.0,
+    "humitat": 70.0,
+    "pressio": 1023.1,
     "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 97.0,
-    "base_nuvols": 625.0
+    "base_nuvols": 663.0
   },
   "pluja": {
     "rati": 0.0,
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Gibosa creixent",
     "icona_lluna": "mdi:moon-waxing-gibbous",
-    "illuminacio_lluna": 83.2208322480186,
+    "illuminacio_lluna": 83.2261201680125,
     "sortida_sol": "2026-10-22T06:09:28.339396+00:00",
     "posta_sol": "2026-10-22T17:01:55.561000+00:00"
   },
   "prediccio": {
-    "pluja": 18,
-    "tempesta": 2,
+    "pluja": 14,
+    "tempesta": 0,
     "neu": 0
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-22T07:35:56.991823+02:00"
+  "actualitzacio": "2026-10-22T07:36:26.991460+02:00"
 }
