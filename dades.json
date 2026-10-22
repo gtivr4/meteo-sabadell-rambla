@@ -4,9 +4,9 @@
     "sensacio": 13.1,
     "humitat": 63.0,
     "pressio": 1024.3,
-    "vent": 0.0,
-    "ratxa": 0.0,
-    "radiacio": 130.88,
+    "vent": 1.4,
+    "ratxa": 1.8,
+    "radiacio": 131.44,
     "uv": 1.0,
     "cobertura": 100.0,
     "base_nuvols": 862.0
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-22T17:01:55.561000+00:00"
   },
   "prediccio": {
-    "pluja": 7,
+    "pluja": 0,
     "tempesta": 0,
     "neu": 0
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-22T10:57:27.423517+02:00"
+  "actualitzacio": "2026-10-22T10:57:57.422578+02:00"
 }
