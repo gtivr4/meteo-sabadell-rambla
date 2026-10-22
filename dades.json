@@ -4,8 +4,8 @@
     "sensacio": 15.9,
     "humitat": 55.0,
     "pressio": 1021.2,
-    "vent": 1.4,
-    "ratxa": 3.6,
+    "vent": 3.6,
+    "ratxa": 5.4,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 71.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Gibosa creixent",
     "icona_lluna": "mdi:moon-waxing-gibbous",
-    "illuminacio_lluna": 87.1476211064553,
+    "illuminacio_lluna": 87.1524131744308,
     "sortida_sol": "2026-10-23T06:10:37.638937+00:00",
     "posta_sol": "2026-10-23T17:00:29.095684+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-22T20:33:59.945891+02:00"
+  "actualitzacio": "2026-10-22T20:34:29.948001+02:00"
 }
