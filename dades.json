@@ -3,10 +3,10 @@
     "temperatura": 17.7,
     "sensacio": 17.7,
     "humitat": 58.0,
-    "pressio": 1021.1,
-    "vent": 1.1,
+    "pressio": 1021.0,
+    "vent": 0.4,
     "ratxa": 3.6,
-    "radiacio": 26.99,
+    "radiacio": 25.96,
     "uv": 0.0,
     "cobertura": 77.0,
     "base_nuvols": 1050.0
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-22T17:01:55.561000+00:00"
   },
   "prediccio": {
-    "pluja": 7,
-    "tempesta": 0,
+    "pluja": 16,
+    "tempesta": 2,
     "neu": 0
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-22T18:33:29.585344+02:00"
+  "actualitzacio": "2026-10-22T18:33:59.588633+02:00"
 }
