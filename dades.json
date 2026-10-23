@@ -1,10 +1,10 @@
 {
   "actual": {
-    "temperatura": 15.0,
-    "sensacio": 15.0,
+    "temperatura": 14.9,
+    "sensacio": 14.9,
     "humitat": 71.0,
     "pressio": 1017.5,
-    "vent": 2.9,
+    "vent": 2.2,
     "ratxa": 3.6,
     "radiacio": 0.02,
     "uv": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Gibosa creixent",
     "icona_lluna": "mdi:moon-waxing-gibbous",
-    "illuminacio_lluna": 90.2136886892393,
+    "illuminacio_lluna": 90.2179836915635,
     "sortida_sol": "2026-10-23T06:10:37.638937+00:00",
     "posta_sol": "2026-10-23T17:00:29.095684+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Mig ennuvolat",
   "icona": "partly-cloudy-night.svg",
-  "actualitzacio": "2026-10-23T07:47:32.885564+02:00"
+  "actualitzacio": "2026-10-23T07:48:02.882449+02:00"
 }
