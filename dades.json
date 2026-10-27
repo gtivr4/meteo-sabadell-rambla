@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 21.2,
     "sensacio": 21.2,
-    "humitat": 67.0,
-    "pressio": 1017.3,
-    "vent": 0.0,
+    "humitat": 68.0,
+    "pressio": 1017.2,
+    "vent": 1.1,
     "ratxa": 1.8,
-    "radiacio": 47.5,
+    "radiacio": 47.47,
     "uv": 0.0,
     "cobertura": 4.0,
-    "base_nuvols": 800.0
+    "base_nuvols": 762.0
   },
   "pluja": {
     "rati": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 2,
-    "tempesta": 0,
+    "tempesta": 2,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-10-27T12:30:00.664094+01:00"
+  "actualitzacio": "2026-10-27T12:30:30.661139+01:00"
 }
