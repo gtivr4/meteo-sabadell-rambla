@@ -3,10 +3,10 @@
     "temperatura": 21.3,
     "sensacio": 21.3,
     "humitat": 52.0,
-    "pressio": 1021.5,
-    "vent": 6.1,
-    "ratxa": 7.2,
-    "radiacio": 49.64,
+    "pressio": 1021.6,
+    "vent": 2.5,
+    "ratxa": 11.2,
+    "radiacio": 49.76,
     "uv": 0.0,
     "cobertura": 2.0,
     "base_nuvols": 1275.0
@@ -22,7 +22,7 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 6.8,
+    "vent": 7.2,
     "ratxa": 11.2,
     "humitat": 91.0
   },
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-28T16:53:34.055345+00:00"
   },
   "prediccio": {
-    "pluja": 3,
-    "tempesta": 2,
+    "pluja": 0,
+    "tempesta": 0,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-10-28T12:53:48.402198+01:00"
+  "actualitzacio": "2026-10-28T12:54:18.165643+01:00"
 }
