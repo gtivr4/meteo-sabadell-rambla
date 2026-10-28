@@ -4,11 +4,11 @@
     "sensacio": 16.2,
     "humitat": 74.0,
     "pressio": 1021.2,
-    "vent": 1.1,
+    "vent": 1.4,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
-    "cobertura": 0.0,
+    "cobertura": 10.0,
     "base_nuvols": 575.0
   },
   "pluja": {
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-29T16:52:14.760651+00:00"
   },
   "prediccio": {
-    "pluja": 4,
+    "pluja": 7,
     "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Cel net",
-  "icona": "clear-night.svg",
-  "actualitzacio": "2026-10-29T00:22:50.323336+01:00"
+  "condicio": "Poc ennuvolat",
+  "icona": "mostly-clear-night.svg",
+  "actualitzacio": "2026-10-29T00:23:20.329451+01:00"
 }
