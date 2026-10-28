@@ -3,9 +3,9 @@
     "temperatura": 17.5,
     "sensacio": 17.5,
     "humitat": 90.0,
-    "pressio": 1020.2,
-    "vent": 1.4,
-    "ratxa": 1.8,
+    "pressio": 1020.3,
+    "vent": 2.2,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 71.0,
@@ -22,8 +22,8 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 1.4,
-    "ratxa": 1.8,
+    "vent": 2.2,
+    "ratxa": 3.6,
     "humitat": 91.0
   },
   "astronomia": {
@@ -40,5 +40,5 @@
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-10-28T02:55:03.101955+01:00"
+  "actualitzacio": "2026-10-28T02:55:33.110736+01:00"
 }
