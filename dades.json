@@ -3,12 +3,12 @@
     "temperatura": 20.4,
     "sensacio": 20.4,
     "humitat": 66.0,
-    "pressio": 1020.4,
-    "vent": 1.1,
+    "pressio": 1020.2,
+    "vent": 0.0,
     "ratxa": 1.8,
-    "radiacio": 0.22,
+    "radiacio": 0.18,
     "uv": 0.0,
-    "cobertura": 6.0,
+    "cobertura": 0.0,
     "base_nuvols": 825.0
   },
   "pluja": {
@@ -38,7 +38,7 @@
     "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Poc ennuvolat",
-  "icona": "mostly-clear-night.svg",
-  "actualitzacio": "2026-10-28T18:10:49.462610+01:00"
+  "condicio": "Cel net",
+  "icona": "clear-night.svg",
+  "actualitzacio": "2026-10-28T18:11:19.466601+01:00"
 }
