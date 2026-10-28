@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 18.1,
     "sensacio": 18.1,
-    "humitat": 70.0,
+    "humitat": 69.0,
     "pressio": 1022.6,
-    "vent": 4.7,
-    "ratxa": 7.2,
-    "radiacio": 109.79,
+    "vent": 6.5,
+    "ratxa": 9.4,
+    "radiacio": 110.19,
     "uv": 1.0,
     "cobertura": 98.0,
-    "base_nuvols": 700.0
+    "base_nuvols": 725.0
   },
   "pluja": {
     "rati": 0.0,
@@ -23,7 +23,7 @@
   "maxims": {
     "rati_pluja": 0.0,
     "vent": 6.8,
-    "ratxa": 7.2,
+    "ratxa": 9.4,
     "humitat": 91.0
   },
   "astronomia": {
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-28T09:35:47.755332+01:00"
+  "actualitzacio": "2026-10-28T09:36:17.749417+01:00"
 }
