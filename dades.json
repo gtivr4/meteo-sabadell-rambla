@@ -3,10 +3,10 @@
     "temperatura": 17.8,
     "sensacio": 17.8,
     "humitat": 75.0,
-    "pressio": 1020.0,
-    "vent": 0.0,
+    "pressio": 1020.1,
+    "vent": 0.7,
     "ratxa": 1.8,
-    "radiacio": 1.2,
+    "radiacio": 1.14,
     "uv": 0.0,
     "cobertura": 96.0,
     "base_nuvols": 562.0
@@ -31,7 +31,7 @@
     "icona_lluna": "mdi:moon-waning-gibbous",
     "illuminacio_lluna": 84.1903319472846,
     "sortida_sol": "2026-10-30T06:18:50.895871+00:00",
-    "posta_sol": "2026-10-29T16:52:14.760651+00:00"
+    "posta_sol": "2026-10-30T16:50:56.789537+00:00"
   },
   "prediccio": {
     "pluja": 18,
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-10-29T17:51:53.073722+01:00"
+  "actualitzacio": "2026-10-29T17:52:23.069257+01:00"
 }
