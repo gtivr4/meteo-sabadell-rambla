@@ -8,7 +8,7 @@
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
-    "cobertura": 98.0,
+    "cobertura": 30.0,
     "base_nuvols": 537.0
   },
   "pluja": {
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Gibosa minvant",
     "icona_lluna": "mdi:moon-waning-gibbous",
-    "illuminacio_lluna": 73.4653168274903,
+    "illuminacio_lluna": 73.4580778985376,
     "sortida_sol": "2026-10-31T06:20:02.406144+00:00",
     "posta_sol": "2026-10-31T16:49:40.178862+00:00"
   },
   "prediccio": {
-    "pluja": 20,
-    "tempesta": 2,
+    "pluja": 10,
+    "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Cobert",
-  "icona": "overcast.svg",
-  "actualitzacio": "2026-10-30T20:48:57.263031+01:00"
+  "condicio": "Mig ennuvolat",
+  "icona": "partly-cloudy-night.svg",
+  "actualitzacio": "2026-10-30T20:49:27.261016+01:00"
 }
