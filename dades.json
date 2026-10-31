@@ -5,8 +5,8 @@
     "humitat": 68.0,
     "pressio": 1020.8,
     "vent": 0.0,
-    "ratxa": 1.8,
-    "radiacio": 0.12,
+    "ratxa": 0.0,
+    "radiacio": 0.1,
     "uv": 0.0,
     "cobertura": 28.0,
     "base_nuvols": 750.0
@@ -34,11 +34,11 @@
     "posta_sol": "2026-11-01T16:48:24.965488+00:00"
   },
   "prediccio": {
-    "pluja": 5,
+    "pluja": 0,
     "tempesta": 0,
     "neu": 0
   },
   "condicio": "Mig ennuvolat",
   "icona": "partly-cloudy-night.svg",
-  "actualitzacio": "2026-10-31T18:09:30.423625+01:00"
+  "actualitzacio": "2026-10-31T18:10:00.444813+01:00"
 }
