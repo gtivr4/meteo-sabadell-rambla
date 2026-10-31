@@ -4,9 +4,9 @@
     "sensacio": 20.0,
     "humitat": 51.0,
     "pressio": 1020.0,
-    "vent": 0.4,
+    "vent": 4.0,
     "ratxa": 5.4,
-    "radiacio": 73.5,
+    "radiacio": 72.35,
     "uv": 0.0,
     "cobertura": 4.0,
     "base_nuvols": 1300.0
@@ -34,11 +34,11 @@
     "posta_sol": "2026-10-31T16:49:40.178862+00:00"
   },
   "prediccio": {
-    "pluja": 3,
-    "tempesta": 2,
+    "pluja": 0,
+    "tempesta": 0,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-10-31T13:37:29.783957+01:00"
+  "actualitzacio": "2026-10-31T13:37:59.776825+01:00"
 }
