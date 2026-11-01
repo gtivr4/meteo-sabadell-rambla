@@ -8,7 +8,7 @@
     "ratxa": 0.0,
     "radiacio": 0.02,
     "uv": 0.0,
-    "cobertura": 7.0,
+    "cobertura": 10.0,
     "base_nuvols": 312.0
   },
   "pluja": {
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Quart minvant",
     "icona_lluna": "mdi:moon-last-quarter",
-    "illuminacio_lluna": 57.6357280109392,
+    "illuminacio_lluna": 57.6276552926974,
     "sortida_sol": "2026-11-01T06:21:14.136746+00:00",
     "posta_sol": "2026-11-01T16:48:24.965488+00:00"
   },
   "prediccio": {
-    "pluja": 9,
+    "pluja": 16,
     "tempesta": 2,
     "neu": 0
   },
   "condicio": "Poc ennuvolat",
   "icona": "mostly-clear-night.svg",
-  "actualitzacio": "2026-11-01T06:55:02.515364+01:00"
+  "actualitzacio": "2026-11-01T06:55:32.520006+01:00"
 }
