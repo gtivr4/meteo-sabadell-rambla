@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 12.9,
-    "sensacio": 12.9,
-    "humitat": 71.0,
-    "pressio": 1020.9,
-    "vent": 1.1,
-    "ratxa": 1.8,
-    "radiacio": 86.32,
+    "temperatura": 13.0,
+    "sensacio": 13.0,
+    "humitat": 70.0,
+    "pressio": 1020.6,
+    "vent": 2.9,
+    "ratxa": 5.4,
+    "radiacio": 82.35,
     "uv": 0.0,
     "cobertura": 100.0,
-    "base_nuvols": 638.0
+    "base_nuvols": 662.0
   },
   "pluja": {
     "rati": 0.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-11-02T16:47:11.186250+00:00"
   },
   "prediccio": {
-    "pluja": 18,
-    "tempesta": 2,
+    "pluja": 14,
+    "tempesta": 0,
     "neu": 0
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-02T09:08:17.022615+01:00"
+  "actualitzacio": "2026-11-02T09:08:47.020229+01:00"
 }
