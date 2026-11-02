@@ -4,7 +4,7 @@
     "sensacio": 13.9,
     "humitat": 80.0,
     "pressio": 1017.7,
-    "vent": 0.4,
+    "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 23,
-    "tempesta": 60,
+    "tempesta": 45,
     "neu": 0
   },
-  "condicio": "Possibilitat de tempesta",
-  "icona": "thunderstorms-night.svg",
-  "actualitzacio": "2026-11-03T00:00:46.284832+01:00"
+  "condicio": "Cobert",
+  "icona": "overcast.svg",
+  "actualitzacio": "2026-11-03T00:01:16.266273+01:00"
 }
