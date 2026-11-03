@@ -3,42 +3,42 @@
     "temperatura": 10.2,
     "sensacio": 10.2,
     "humitat": 81.0,
-    "pressio": 1016.8,
-    "vent": 2.2,
-    "ratxa": 7.2,
+    "pressio": 1016.9,
+    "vent": 5.0,
+    "ratxa": 11.2,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 100.0,
     "base_nuvols": 387.0
   },
   "pluja": {
-    "rati": 0.0,
-    "hora": 0.7,
-    "avui": 0.7,
+    "rati": 1.8,
+    "hora": 1.0,
+    "avui": 1.0,
     "ahir": 0,
-    "setmana": 9.1,
-    "mes": 9.1,
-    "any": 661.2
+    "setmana": 9.4,
+    "mes": 9.4,
+    "any": 661.5
   },
   "maxims": {
     "rati_pluja": 3.0,
     "vent": 6.5,
-    "ratxa": 9.4,
+    "ratxa": 11.2,
     "humitat": 85.0
   },
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 26.9545717909547,
+    "illuminacio_lluna": 26.9476118485817,
     "sortida_sol": "2026-11-04T06:24:50.468247+00:00",
     "posta_sol": "2026-11-04T16:44:48.077201+00:00"
   },
   "prediccio": {
-    "pluja": 93,
+    "pluja": 95,
     "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Cobert",
-  "icona": "overcast.svg",
-  "actualitzacio": "2026-11-04T00:31:01.518672+01:00"
+  "condicio": "Pluja feble",
+  "icona": "overcast-night-drizzle.svg",
+  "actualitzacio": "2026-11-04T00:31:31.527383+01:00"
 }
