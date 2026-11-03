@@ -1,10 +1,10 @@
 {
   "actual": {
-    "temperatura": 13.3,
-    "sensacio": 13.3,
+    "temperatura": 13.4,
+    "sensacio": 13.4,
     "humitat": 81.0,
     "pressio": 1016.7,
-    "vent": 2.2,
+    "vent": 0.7,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 25,
-    "tempesta": 50,
+    "tempesta": 60,
     "neu": 0
   },
-  "condicio": "Cobert",
-  "icona": "overcast.svg",
-  "actualitzacio": "2026-11-03T01:30:46.467680+01:00"
+  "condicio": "Possibilitat de tempesta",
+  "icona": "thunderstorms-night.svg",
+  "actualitzacio": "2026-11-03T01:31:16.440306+01:00"
 }
