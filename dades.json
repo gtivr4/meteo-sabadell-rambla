@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 12.6,
     "sensacio": 12.6,
-    "humitat": 81.0,
+    "humitat": 82.0,
     "pressio": 1015.2,
-    "vent": 1.8,
-    "ratxa": 5.4,
+    "vent": 1.1,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 99.0,
-    "base_nuvols": 400.0
+    "base_nuvols": 375.0
   },
   "pluja": {
     "rati": 1.8,
@@ -40,5 +40,5 @@
   },
   "condicio": "Pluja feble",
   "icona": "overcast-night-drizzle.svg",
-  "actualitzacio": "2026-11-03T18:29:29.631476+01:00"
+  "actualitzacio": "2026-11-03T18:29:59.625135+01:00"
 }
