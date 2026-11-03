@@ -3,8 +3,8 @@
     "temperatura": 13.5,
     "sensacio": 13.5,
     "humitat": 80.0,
-    "pressio": 1016.7,
-    "vent": 0.7,
+    "pressio": 1016.5,
+    "vent": 1.1,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-11-03T16:45:58.877924+00:00"
   },
   "prediccio": {
-    "pluja": 25,
-    "tempesta": 60,
+    "pluja": 26,
+    "tempesta": 50,
     "neu": 0
   },
-  "condicio": "Possibilitat de tempesta",
-  "icona": "thunderstorms-night.svg",
-  "actualitzacio": "2026-11-03T01:54:46.490253+01:00"
+  "condicio": "Cobert",
+  "icona": "overcast.svg",
+  "actualitzacio": "2026-11-03T01:55:16.470516+01:00"
 }
