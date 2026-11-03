@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 11.8,
     "sensacio": 11.8,
-    "humitat": 72.0,
+    "humitat": 71.0,
     "pressio": 1016.5,
     "vent": 0.4,
-    "ratxa": 1.8,
-    "radiacio": 0.02,
+    "ratxa": 0.0,
+    "radiacio": 0.03,
     "uv": 0.0,
     "cobertura": 96.0,
-    "base_nuvols": 612.0
+    "base_nuvols": 638.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Possibilitat de tempesta",
   "icona": "thunderstorms-night.svg",
-  "actualitzacio": "2026-11-03T07:02:47.212584+01:00"
+  "actualitzacio": "2026-11-03T07:03:17.216001+01:00"
 }
