@@ -4,7 +4,7 @@
     "sensacio": 12.3,
     "humitat": 75.0,
     "pressio": 1015.6,
-    "vent": 0.4,
+    "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 0,
-    "tempesta": 0,
+    "tempesta": 1,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-night.svg",
-  "actualitzacio": "2026-11-04T19:36:35.014741+01:00"
+  "actualitzacio": "2026-11-04T19:37:04.975093+01:00"
 }
