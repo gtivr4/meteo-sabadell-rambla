@@ -4,11 +4,11 @@
     "sensacio": 11.2,
     "humitat": 81.0,
     "pressio": 1019.0,
-    "vent": 1.1,
+    "vent": 0.7,
     "ratxa": 3.6,
-    "radiacio": 77.62,
+    "radiacio": 77.57,
     "uv": 0.0,
-    "cobertura": 0.0,
+    "cobertura": 96.0,
     "base_nuvols": 387.0
   },
   "pluja": {
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 93,
-    "tempesta": 3,
+    "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Cel net",
-  "icona": "clear-day.svg",
-  "actualitzacio": "2026-11-05T10:07:07.795769+01:00"
+  "condicio": "Cobert",
+  "icona": "overcast.svg",
+  "actualitzacio": "2026-11-05T10:07:37.803091+01:00"
 }
