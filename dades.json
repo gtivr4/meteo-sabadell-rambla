@@ -4,9 +4,9 @@
     "sensacio": 14.8,
     "humitat": 74.0,
     "pressio": 1017.9,
-    "vent": 0.4,
-    "ratxa": 0.0,
-    "radiacio": 1.93,
+    "vent": 0.7,
+    "ratxa": 1.8,
+    "radiacio": 1.8,
     "uv": 0.0,
     "cobertura": 18.0,
     "base_nuvols": 575.0
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 2,
-    "tempesta": 3,
+    "tempesta": 0,
     "neu": 0
   },
   "condicio": "Poc ennuvolat",
   "icona": "mostly-clear-night.svg",
-  "actualitzacio": "2026-11-05T17:47:22.642014+01:00"
+  "actualitzacio": "2026-11-05T17:47:52.647838+01:00"
 }
