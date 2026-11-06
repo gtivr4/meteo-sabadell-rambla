@@ -3,9 +3,9 @@
     "temperatura": 11.8,
     "sensacio": 11.8,
     "humitat": 88.0,
-    "pressio": 1022.1,
-    "vent": 0.0,
-    "ratxa": 0.0,
+    "pressio": 1022.2,
+    "vent": 1.1,
+    "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 91.0,
@@ -22,8 +22,8 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 0.4,
-    "ratxa": 0.0,
+    "vent": 1.1,
+    "ratxa": 1.8,
     "humitat": 89.0
   },
   "astronomia": {
@@ -40,5 +40,5 @@
   },
   "condicio": "Molt ennuvolat",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-07T00:12:59.662660+01:00"
+  "actualitzacio": "2026-11-07T00:13:29.660195+01:00"
 }
