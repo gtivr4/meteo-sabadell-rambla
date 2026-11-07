@@ -8,7 +8,7 @@
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
-    "cobertura": 6.0,
+    "cobertura": 3.0,
     "base_nuvols": 350.0
   },
   "pluja": {
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Minvant",
     "icona_lluna": "mdi:moon-waning-crescent",
-    "illuminacio_lluna": 1.76882205132434,
+    "illuminacio_lluna": 1.7670545766571,
     "sortida_sol": "2026-11-08T06:29:40.752498+00:00",
     "posta_sol": "2026-11-08T16:40:20.679102+00:00"
   },
@@ -38,7 +38,7 @@
     "tempesta": 3,
     "neu": 0
   },
-  "condicio": "Poc ennuvolat",
-  "icona": "mostly-clear-night.svg",
-  "actualitzacio": "2026-11-07T21:30:33.363555+01:00"
+  "condicio": "Cel net",
+  "icona": "clear-night.svg",
+  "actualitzacio": "2026-11-07T21:31:03.368318+01:00"
 }
