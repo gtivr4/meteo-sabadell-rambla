@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 11.3,
-    "sensacio": 11.3,
-    "humitat": 90.0,
-    "pressio": 1020.0,
-    "vent": 0.0,
-    "ratxa": 1.8,
+    "temperatura": 11.4,
+    "sensacio": 11.4,
+    "humitat": 89.0,
+    "pressio": 1020.1,
+    "vent": 2.2,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 96.0,
-    "base_nuvols": 200.0
+    "base_nuvols": 213.0
   },
   "pluja": {
     "rati": 0.0,
@@ -38,7 +38,7 @@
     "tempesta": 4,
     "neu": 0
   },
-  "condicio": "Boirina",
+  "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-08T06:17:04.911267+01:00"
+  "actualitzacio": "2026-11-08T06:17:34.919516+01:00"
 }
