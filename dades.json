@@ -16,20 +16,20 @@
     "hora": 0.0,
     "avui": 0.0,
     "ahir": 0,
-    "setmana": 10.2,
+    "setmana": 0.0,
     "mes": 10.2,
     "any": 662.3
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 7.9,
-    "ratxa": 11.2,
-    "humitat": 90.0
+    "vent": 0.0,
+    "ratxa": 0.0,
+    "humitat": 86.0
   },
   "astronomia": {
     "fase_lluna": "Lluna nova",
     "icona_lluna": "mdi:moon-new",
-    "illuminacio_lluna": 0.211324724953177,
+    "illuminacio_lluna": 0.211117303671604,
     "sortida_sol": "2026-11-09T06:30:53.481637+00:00",
     "posta_sol": "2026-11-09T16:39:17.961192+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-08T23:59:37.599368+01:00"
+  "actualitzacio": "2026-11-09T00:00:07.592561+01:00"
 }
