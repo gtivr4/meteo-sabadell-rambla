@@ -4,9 +4,9 @@
     "sensacio": 18.1,
     "humitat": 69.0,
     "pressio": 1020.7,
-    "vent": 3.2,
+    "vent": 1.1,
     "ratxa": 5.4,
-    "radiacio": 96.01,
+    "radiacio": 94.11,
     "uv": 0.0,
     "cobertura": 79.0,
     "base_nuvols": 725.0
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Lluna nova",
     "icona_lluna": "mdi:moon-new",
-    "illuminacio_lluna": 0.575473702657092,
+    "illuminacio_lluna": 0.574609300280632,
     "sortida_sol": "2026-11-09T06:30:53.481637+00:00",
     "posta_sol": "2026-11-08T16:40:20.679102+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-11-08T12:38:36.153917+01:00"
+  "actualitzacio": "2026-11-08T12:39:06.160569+01:00"
 }
