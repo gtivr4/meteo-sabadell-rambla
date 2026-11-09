@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 14.4,
     "sensacio": 14.4,
-    "humitat": 90.0,
-    "pressio": 1016.6,
+    "humitat": 91.0,
+    "pressio": 1016.7,
     "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 89.0,
-    "base_nuvols": 200.0
+    "base_nuvols": 175.0
   },
   "pluja": {
     "rati": 0.0,
@@ -24,7 +24,7 @@
     "rati_pluja": 0.0,
     "vent": 1.4,
     "ratxa": 1.8,
-    "humitat": 90.0
+    "humitat": 91.0
   },
   "astronomia": {
     "fase_lluna": "Lluna nova",
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-09T05:48:08.462534+01:00"
+  "actualitzacio": "2026-11-09T05:48:38.463883+01:00"
 }
