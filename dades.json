@@ -8,7 +8,7 @@
     "ratxa": 0.0,
     "radiacio": 0.0,
     "uv": 0.0,
-    "cobertura": 89.0,
+    "cobertura": 100.0,
     "base_nuvols": 175.0
   },
   "pluja": {
@@ -29,16 +29,16 @@
   "astronomia": {
     "fase_lluna": "Lluna nova",
     "icona_lluna": "mdi:moon-new",
-    "illuminacio_lluna": 0.198043393821484,
+    "illuminacio_lluna": 0.198177513742537,
     "sortida_sol": "2026-11-09T06:30:53.481637+00:00",
     "posta_sol": "2026-11-09T16:39:17.961192+00:00"
   },
   "prediccio": {
-    "pluja": 24,
-    "tempesta": 10,
+    "pluja": 23,
+    "tempesta": 6,
     "neu": 0
   },
   "condicio": "Boirina",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-09T06:02:38.474662+01:00"
+  "actualitzacio": "2026-11-09T06:03:08.476322+01:00"
 }
