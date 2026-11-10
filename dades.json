@@ -3,8 +3,8 @@
     "temperatura": 16.2,
     "sensacio": 16.2,
     "humitat": 92.0,
-    "pressio": 1011.7,
-    "vent": 1.4,
+    "pressio": 1011.6,
+    "vent": 0.4,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Lluna nova",
     "icona_lluna": "mdi:moon-new",
-    "illuminacio_lluna": 1.06163855405492,
+    "illuminacio_lluna": 1.06288635272554,
     "sortida_sol": "2026-11-10T06:32:06.215123+00:00",
     "posta_sol": "2026-11-10T16:38:16.967160+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Boirina",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-10T02:41:12.714788+01:00"
+  "actualitzacio": "2026-11-10T02:41:42.703276+01:00"
 }
