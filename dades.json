@@ -4,11 +4,11 @@
     "sensacio": 21.0,
     "humitat": 57.0,
     "pressio": 1009.6,
-    "vent": 5.4,
+    "vent": 9.4,
     "ratxa": 13.0,
-    "radiacio": 182.13,
+    "radiacio": 181.13,
     "uv": 1.0,
-    "cobertura": 25.0,
+    "cobertura": 60.0,
     "base_nuvols": 1100.0
   },
   "pluja": {
@@ -34,11 +34,11 @@
     "posta_sol": "2026-11-10T16:38:16.967160+00:00"
   },
   "prediccio": {
-    "pluja": 16,
-    "tempesta": 16,
+    "pluja": 24,
+    "tempesta": 20,
     "neu": 0
   },
   "condicio": "Mig ennuvolat",
-  "icona": "mostly-clear.svg",
-  "actualitzacio": "2026-11-10T13:29:25.133255+01:00"
+  "icona": "partly-cloudy.svg",
+  "actualitzacio": "2026-11-10T13:29:55.133666+01:00"
 }
