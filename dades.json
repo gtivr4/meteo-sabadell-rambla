@@ -12,13 +12,13 @@
     "base_nuvols": 225.0
   },
   "pluja": {
-    "rati": 0.0,
-    "hora": 0.2,
-    "avui": 0.5,
+    "rati": 1.8,
+    "hora": 0.5,
+    "avui": 0.8,
     "ahir": 0,
-    "setmana": 1.2,
-    "mes": 11.4,
-    "any": 663.5
+    "setmana": 1.5,
+    "mes": 11.7,
+    "any": 663.8
   },
   "maxims": {
     "rati_pluja": 1.8,
@@ -34,11 +34,11 @@
     "posta_sol": "2026-11-12T16:36:20.290436+00:00"
   },
   "prediccio": {
-    "pluja": 85,
+    "pluja": 95,
     "tempesta": 18,
     "neu": 0
   },
-  "condicio": "Cobert",
-  "icona": "overcast.svg",
-  "actualitzacio": "2026-11-11T21:38:30.291402+01:00"
+  "condicio": "Pluja feble",
+  "icona": "overcast-night-drizzle.svg",
+  "actualitzacio": "2026-11-11T21:39:00.292403+01:00"
 }
