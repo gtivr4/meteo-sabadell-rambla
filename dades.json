@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 17.5,
     "sensacio": 17.5,
-    "humitat": 89.0,
+    "humitat": 88.0,
     "pressio": 999.0,
-    "vent": 0.0,
-    "ratxa": 0.0,
+    "vent": 0.4,
+    "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 100.0,
-    "base_nuvols": 225.0
+    "base_nuvols": 250.0
   },
   "pluja": {
     "rati": 6.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Pluja moderada",
   "icona": "overcast-night-rain.svg",
-  "actualitzacio": "2026-11-11T23:18:30.599155+01:00"
+  "actualitzacio": "2026-11-11T23:19:00.606569+01:00"
 }
