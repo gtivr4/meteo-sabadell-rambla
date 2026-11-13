@@ -1,10 +1,10 @@
 {
   "actual": {
-    "temperatura": 16.9,
-    "sensacio": 16.9,
+    "temperatura": 16.8,
+    "sensacio": 16.8,
     "humitat": 65.0,
     "pressio": 1005.9,
-    "vent": 1.1,
+    "vent": 3.6,
     "ratxa": 3.6,
     "radiacio": 40.92,
     "uv": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Creixent",
     "icona_lluna": "mdi:moon-waxing-crescent",
-    "illuminacio_lluna": 16.305294264458,
+    "illuminacio_lluna": 16.3100698394911,
     "sortida_sol": "2026-11-14T06:36:56.518752+00:00",
     "posta_sol": "2026-11-13T16:35:24.676523+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-11-13T11:55:38.723888+01:00"
+  "actualitzacio": "2026-11-13T11:56:08.729310+01:00"
 }
