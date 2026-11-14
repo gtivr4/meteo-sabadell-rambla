@@ -4,15 +4,15 @@
     "sensacio": 17.7,
     "humitat": 78.0,
     "pressio": 1011.7,
-    "vent": 2.5,
+    "vent": 1.8,
     "ratxa": 3.6,
-    "radiacio": 12.69,
+    "radiacio": 12.71,
     "uv": 0.0,
     "cobertura": 85.0,
     "base_nuvols": 487.0
   },
   "pluja": {
-    "rati": 1.2,
+    "rati": 0.0,
     "hora": 0.5,
     "avui": 0.5,
     "ahir": 0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Creixent",
     "icona_lluna": "mdi:moon-waxing-crescent",
-    "illuminacio_lluna": 25.3225556030472,
+    "illuminacio_lluna": 25.3282331939767,
     "sortida_sol": "2026-11-15T06:38:08.753967+00:00",
     "posta_sol": "2026-11-14T16:34:30.923944+00:00"
   },
@@ -38,7 +38,7 @@
     "tempesta": 95,
     "neu": 0
   },
-  "condicio": "Tempesta elèctrica amb pluja",
-  "icona": "thunderstorms-overcast-rain.svg",
-  "actualitzacio": "2026-11-14T16:35:44.654620+01:00"
+  "condicio": "Tempesta elèctrica propera",
+  "icona": "thunderstorms-overcast.svg",
+  "actualitzacio": "2026-11-14T16:36:14.659387+01:00"
 }
