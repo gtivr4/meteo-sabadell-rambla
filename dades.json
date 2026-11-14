@@ -4,7 +4,7 @@
     "sensacio": 15.4,
     "humitat": 81.0,
     "pressio": 1013.9,
-    "vent": 10.8,
+    "vent": 6.1,
     "ratxa": 23.8,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -12,16 +12,16 @@
     "base_nuvols": 400.0
   },
   "pluja": {
-    "rati": 1.8,
-    "hora": 0.3,
-    "avui": 1.3,
+    "rati": 3.6,
+    "hora": 0.6,
+    "avui": 1.6,
     "ahir": 0,
-    "setmana": 34.0,
-    "mes": 44.2,
-    "any": 696.3
+    "setmana": 34.3,
+    "mes": 44.5,
+    "any": 696.6
   },
   "maxims": {
-    "rati_pluja": 3.0,
+    "rati_pluja": 3.6,
     "vent": 10.8,
     "ratxa": 23.8,
     "humitat": 87.0
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Creixent",
     "icona_lluna": "mdi:moon-waxing-crescent",
-    "illuminacio_lluna": 26.5712009161092,
+    "illuminacio_lluna": 26.5769785518474,
     "sortida_sol": "2026-11-15T06:38:08.753967+00:00",
     "posta_sol": "2026-11-15T16:33:39.065785+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta elèctrica amb pluja",
   "icona": "thunderstorms-overcast-rain.svg",
-  "actualitzacio": "2026-11-14T20:13:45.184547+01:00"
+  "actualitzacio": "2026-11-14T20:14:15.189187+01:00"
 }
