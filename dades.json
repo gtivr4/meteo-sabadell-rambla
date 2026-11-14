@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 17.8,
     "sensacio": 17.8,
-    "humitat": 78.0,
-    "pressio": 1011.5,
-    "vent": 0.4,
-    "ratxa": 0.0,
-    "radiacio": 12.96,
+    "humitat": 79.0,
+    "pressio": 1011.7,
+    "vent": 2.9,
+    "ratxa": 3.6,
+    "radiacio": 12.84,
     "uv": 0.0,
     "cobertura": 85.0,
-    "base_nuvols": 488.0
+    "base_nuvols": 463.0
   },
   "pluja": {
     "rati": 3.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta elèctrica amb pluja",
   "icona": "thunderstorms-overcast-rain.svg",
-  "actualitzacio": "2026-11-14T16:32:14.654735+01:00"
+  "actualitzacio": "2026-11-14T16:32:44.656220+01:00"
 }
