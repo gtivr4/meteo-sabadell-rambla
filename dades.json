@@ -3,7 +3,7 @@
     "temperatura": 14.0,
     "sensacio": 14.0,
     "humitat": 84.0,
-    "pressio": 1013.6,
+    "pressio": 1013.4,
     "vent": 0.4,
     "ratxa": 0.0,
     "radiacio": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 18,
-    "tempesta": 88,
+    "tempesta": 95,
     "neu": 0
   },
-  "condicio": "Activitat elèctrica a la zona",
-  "icona": "thunderstorms.svg",
-  "actualitzacio": "2026-11-14T21:56:15.523139+01:00"
+  "condicio": "Tempesta molt propera",
+  "icona": "severe-thunderstorm.svg",
+  "actualitzacio": "2026-11-14T21:56:45.534041+01:00"
 }
