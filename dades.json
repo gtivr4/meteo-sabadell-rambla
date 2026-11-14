@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 14.4,
     "sensacio": 14.4,
-    "humitat": 81.0,
-    "pressio": 1013.5,
+    "humitat": 82.0,
+    "pressio": 1013.4,
     "vent": 0.0,
     "ratxa": 1.8,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 77.0,
-    "base_nuvols": 400.0
+    "base_nuvols": 375.0
   },
   "pluja": {
     "rati": 3.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta elèctrica amb pluja",
   "icona": "thunderstorms-overcast-rain.svg",
-  "actualitzacio": "2026-11-14T20:53:15.404817+01:00"
+  "actualitzacio": "2026-11-14T20:53:45.406434+01:00"
 }
