@@ -6,7 +6,7 @@
     "pressio": 1011.8,
     "vent": 0.4,
     "ratxa": 0.0,
-    "radiacio": 15.55,
+    "radiacio": 15.98,
     "uv": 0.0,
     "cobertura": 85.0,
     "base_nuvols": 387.0
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 95,
-    "tempesta": 95,
+    "tempesta": 88,
     "neu": 0
   },
-  "condicio": "Tempesta molt propera",
-  "icona": "severe-thunderstorm.svg",
-  "actualitzacio": "2026-11-14T16:53:14.687251+01:00"
+  "condicio": "Tempesta elèctrica amb pluja",
+  "icona": "thunderstorms-overcast-rain.svg",
+  "actualitzacio": "2026-11-14T16:53:44.690032+01:00"
 }
