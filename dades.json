@@ -4,7 +4,7 @@
     "sensacio": 14.7,
     "humitat": 80.0,
     "pressio": 1013.6,
-    "vent": 1.4,
+    "vent": 4.0,
     "ratxa": 9.4,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 95,
-    "tempesta": 88,
+    "tempesta": 95,
     "neu": 0
   },
-  "condicio": "Tempesta amb activitat elèctrica",
-  "icona": "thunderstorms-rain.svg",
-  "actualitzacio": "2026-11-14T20:30:15.218311+01:00"
+  "condicio": "Tempesta elèctrica amb pluja",
+  "icona": "thunderstorms-overcast-rain.svg",
+  "actualitzacio": "2026-11-14T20:30:45.231601+01:00"
 }
