@@ -1,15 +1,15 @@
 {
   "actual": {
-    "temperatura": 17.1,
-    "sensacio": 17.1,
+    "temperatura": 17.0,
+    "sensacio": 17.0,
     "humitat": 82.0,
-    "pressio": 1012.0,
+    "pressio": 1011.8,
     "vent": 0.0,
     "ratxa": 0.0,
-    "radiacio": 15.04,
+    "radiacio": 15.21,
     "uv": 0.0,
     "cobertura": 85.0,
-    "base_nuvols": 388.0
+    "base_nuvols": 387.0
   },
   "pluja": {
     "rati": 1.8,
@@ -40,5 +40,5 @@
   },
   "condicio": "Tempesta molt propera",
   "icona": "severe-thunderstorm.svg",
-  "actualitzacio": "2026-11-14T16:52:14.696214+01:00"
+  "actualitzacio": "2026-11-14T16:52:44.685213+01:00"
 }
