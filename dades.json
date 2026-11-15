@@ -6,7 +6,7 @@
     "pressio": 1013.8,
     "vent": 1.1,
     "ratxa": 3.6,
-    "radiacio": 1.7,
+    "radiacio": 1.66,
     "uv": 0.0,
     "cobertura": 96.0,
     "base_nuvols": 950.0
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Creixent",
     "icona_lluna": "mdi:moon-waxing-crescent",
-    "illuminacio_lluna": 34.3148440023984,
+    "illuminacio_lluna": 34.3211349730395,
     "sortida_sol": "2026-11-16T06:39:20.773910+00:00",
     "posta_sol": "2026-11-16T16:32:49.134512+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-15T17:34:49.646626+01:00"
+  "actualitzacio": "2026-11-15T17:35:19.640690+01:00"
 }
