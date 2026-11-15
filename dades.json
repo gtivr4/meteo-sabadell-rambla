@@ -1,12 +1,12 @@
 {
   "actual": {
-    "temperatura": 12.9,
-    "sensacio": 12.9,
+    "temperatura": 13.0,
+    "sensacio": 13.0,
     "humitat": 83.0,
     "pressio": 1016.6,
-    "vent": 1.1,
+    "vent": 0.0,
     "ratxa": 1.8,
-    "radiacio": 75.14,
+    "radiacio": 75.53,
     "uv": 0.0,
     "cobertura": 93.0,
     "base_nuvols": 350.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Molt ennuvolat",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-15T09:06:17.284778+01:00"
+  "actualitzacio": "2026-11-15T09:06:47.291168+01:00"
 }
