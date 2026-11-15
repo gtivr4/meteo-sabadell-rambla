@@ -3,10 +3,10 @@
     "temperatura": 12.1,
     "sensacio": 12.1,
     "humitat": 87.0,
-    "pressio": 1015.5,
+    "pressio": 1015.6,
     "vent": 0.0,
     "ratxa": 0.0,
-    "radiacio": 0.0,
+    "radiacio": 0.01,
     "uv": 0.0,
     "cobertura": 84.0,
     "base_nuvols": 262.0
@@ -40,5 +40,5 @@
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-11-15T07:08:16.947657+01:00"
+  "actualitzacio": "2026-11-15T07:08:46.939238+01:00"
 }
