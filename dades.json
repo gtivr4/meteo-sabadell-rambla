@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 17.0,
     "sensacio": 17.0,
-    "humitat": 88.0,
-    "pressio": 998.7,
-    "vent": 4.0,
+    "humitat": 87.0,
+    "pressio": 999.0,
+    "vent": 4.7,
     "ratxa": 7.2,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 78.0,
-    "base_nuvols": 250.0
+    "base_nuvols": 275.0
   },
   "pluja": {
     "rati": 0.0,
@@ -40,5 +40,5 @@
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-11-19T03:32:15.117268+01:00"
+  "actualitzacio": "2026-11-19T03:32:45.114080+01:00"
 }
