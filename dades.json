@@ -4,9 +4,9 @@
     "sensacio": 17.0,
     "humitat": 39.0,
     "pressio": 1009.2,
-    "vent": 6.5,
+    "vent": 5.0,
     "ratxa": 13.0,
-    "radiacio": 4.7,
+    "radiacio": 4.48,
     "uv": 0.0,
     "cobertura": 0.0,
     "base_nuvols": 1750.0
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Gibosa creixent",
     "icona_lluna": "mdi:moon-waxing-gibbous",
-    "illuminacio_lluna": 72.891245368994,
+    "illuminacio_lluna": 72.8976744111656,
     "sortida_sol": "2026-11-20T06:44:05.832474+00:00",
     "posta_sol": "2026-11-19T16:30:31.216142+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-11-19T17:26:47.179993+01:00"
+  "actualitzacio": "2026-11-19T17:27:17.176496+01:00"
 }
