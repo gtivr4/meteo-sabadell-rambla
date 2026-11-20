@@ -3,12 +3,12 @@
     "temperatura": 12.8,
     "sensacio": 12.8,
     "humitat": 58.0,
-    "pressio": 1015.5,
-    "vent": 2.2,
+    "pressio": 1015.4,
+    "vent": 1.4,
     "ratxa": 5.4,
     "radiacio": 0.0,
     "uv": 0.0,
-    "cobertura": 6.0,
+    "cobertura": 81.0,
     "base_nuvols": 1013.0
   },
   "pluja": {
@@ -34,11 +34,11 @@
     "posta_sol": "2026-11-20T16:29:49.302612+00:00"
   },
   "prediccio": {
-    "pluja": 0,
-    "tempesta": 1,
+    "pluja": 2,
+    "tempesta": 3,
     "neu": 0
   },
-  "condicio": "Poc ennuvolat",
-  "icona": "mostly-clear-night.svg",
-  "actualitzacio": "2026-11-20T04:11:18.580200+01:00"
+  "condicio": "Ennuvolat",
+  "icona": "cloudy.svg",
+  "actualitzacio": "2026-11-20T04:11:48.584966+01:00"
 }
