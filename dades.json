@@ -1,7 +1,7 @@
 {
   "actual": {
-    "temperatura": 12.3,
-    "sensacio": 12.3,
+    "temperatura": 12.2,
+    "sensacio": 12.2,
     "humitat": 75.0,
     "pressio": 1021.3,
     "vent": 0.0,
@@ -9,7 +9,7 @@
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 74.0,
-    "base_nuvols": 538.0
+    "base_nuvols": 537.0
   },
   "pluja": {
     "rati": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 0,
-    "tempesta": 3,
+    "tempesta": 2,
     "neu": 0
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-11-20T21:39:17.792160+01:00"
+  "actualitzacio": "2026-11-20T21:39:47.787456+01:00"
 }
