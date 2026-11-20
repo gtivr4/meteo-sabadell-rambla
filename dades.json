@@ -1,7 +1,7 @@
 {
   "actual": {
-    "temperatura": 12.1,
-    "sensacio": 12.1,
+    "temperatura": 12.0,
+    "sensacio": 12.0,
     "humitat": 76.0,
     "pressio": 1021.3,
     "vent": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 0,
-    "tempesta": 3,
+    "tempesta": 2,
     "neu": 0
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-11-20T21:45:17.803053+01:00"
+  "actualitzacio": "2026-11-20T21:45:47.814907+01:00"
 }
