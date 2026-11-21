@@ -3,10 +3,10 @@
     "temperatura": 17.6,
     "sensacio": 17.6,
     "humitat": 68.0,
-    "pressio": 1015.3,
-    "vent": 1.1,
+    "pressio": 1015.0,
+    "vent": 0.0,
     "ratxa": 1.8,
-    "radiacio": 44.29,
+    "radiacio": 44.61,
     "uv": 0.0,
     "cobertura": 99.0,
     "base_nuvols": 750.0
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 85,
-    "tempesta": 24,
+    "tempesta": 30,
     "neu": 0
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-21T16:02:20.151761+01:00"
+  "actualitzacio": "2026-11-21T16:02:50.142269+01:00"
 }
