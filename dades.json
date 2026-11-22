@@ -1,10 +1,10 @@
 {
   "actual": {
-    "temperatura": 13.4,
-    "sensacio": 13.4,
+    "temperatura": 13.5,
+    "sensacio": 13.5,
     "humitat": 77.0,
-    "pressio": 1009.8,
-    "vent": 6.1,
+    "pressio": 1009.9,
+    "vent": 6.5,
     "ratxa": 9.4,
     "radiacio": 0.0,
     "uv": 0.0,
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 45,
-    "tempesta": 10,
+    "tempesta": 6,
     "neu": 0
   },
   "condicio": "Ennuvolat",
   "icona": "cloudy.svg",
-  "actualitzacio": "2026-11-22T04:39:21.700773+01:00"
+  "actualitzacio": "2026-11-22T04:39:51.675544+01:00"
 }
