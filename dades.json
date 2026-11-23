@@ -3,12 +3,12 @@
     "temperatura": 9.2,
     "sensacio": 9.2,
     "humitat": 67.0,
-    "pressio": 1022.4,
-    "vent": 0.4,
-    "ratxa": 0.0,
+    "pressio": 1022.5,
+    "vent": 0.7,
+    "ratxa": 1.8,
     "radiacio": 0.05,
     "uv": 0.0,
-    "cobertura": 32.0,
+    "cobertura": 73.0,
     "base_nuvols": 725.0
   },
   "pluja": {
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 0,
-    "tempesta": 0,
+    "tempesta": 2,
     "neu": 0
   },
-  "condicio": "Mig ennuvolat",
-  "icona": "partly-cloudy-night.svg",
-  "actualitzacio": "2026-11-23T07:24:25.838194+01:00"
+  "condicio": "Ennuvolat",
+  "icona": "cloudy.svg",
+  "actualitzacio": "2026-11-23T07:24:55.854711+01:00"
 }
