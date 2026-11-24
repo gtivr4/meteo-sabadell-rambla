@@ -3,12 +3,12 @@
     "temperatura": 14.3,
     "sensacio": 14.3,
     "humitat": 74.0,
-    "pressio": 1014.1,
+    "pressio": 1014.0,
     "vent": 0.4,
     "ratxa": 0.0,
-    "radiacio": 35.06,
+    "radiacio": 35.23,
     "uv": 0.0,
-    "cobertura": 96.0,
+    "cobertura": 74.0,
     "base_nuvols": 575.0
   },
   "pluja": {
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 85,
-    "tempesta": 10,
+    "tempesta": 17,
     "neu": 0
   },
-  "condicio": "Cobert",
-  "icona": "overcast.svg",
-  "actualitzacio": "2026-11-24T16:09:39.403743+01:00"
+  "condicio": "Ennuvolat",
+  "icona": "cloudy.svg",
+  "actualitzacio": "2026-11-24T16:10:09.398382+01:00"
 }
