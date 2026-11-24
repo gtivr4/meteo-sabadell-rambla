@@ -3,7 +3,7 @@
     "temperatura": 13.4,
     "sensacio": 13.4,
     "humitat": 87.0,
-    "pressio": 1013.0,
+    "pressio": 1013.1,
     "vent": 0.0,
     "ratxa": 0.0,
     "radiacio": 0.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Lluna plena",
     "icona_lluna": "mdi:moon-full",
-    "illuminacio_lluna": 99.7530628565327,
+    "illuminacio_lluna": 99.7526861187762,
     "sortida_sol": "2026-11-25T06:49:51.808283+00:00",
     "posta_sol": "2026-11-25T16:26:51.435227+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-24T20:44:42.124396+01:00"
+  "actualitzacio": "2026-11-24T20:45:12.081119+01:00"
 }
