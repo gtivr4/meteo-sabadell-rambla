@@ -1,24 +1,24 @@
 {
   "actual": {
-    "temperatura": 8.8,
-    "sensacio": 8.8,
-    "humitat": 82.0,
-    "pressio": 1007.8,
-    "vent": 2.9,
-    "ratxa": 5.4,
-    "radiacio": 51.44,
-    "uv": 0.0,
-    "cobertura": 91.0,
-    "base_nuvols": 363.0
+    "temperatura": 0,
+    "sensacio": 0,
+    "humitat": 0,
+    "pressio": 0,
+    "vent": 0,
+    "ratxa": 0,
+    "radiacio": 0,
+    "uv": 0,
+    "cobertura": 0,
+    "base_nuvols": 9999
   },
   "pluja": {
-    "rati": 0.0,
+    "rati": 0,
     "hora": 0.3,
-    "avui": 3.3,
+    "avui": 0,
     "ahir": 0,
-    "setmana": 4.1,
-    "mes": 52.3,
-    "any": 704.4
+    "setmana": 0,
+    "mes": 0,
+    "any": 0
   },
   "maxims": {
     "rati_pluja": 4.8,
@@ -27,18 +27,18 @@
     "humitat": 86.0
   },
   "astronomia": {
-    "fase_lluna": "Gibosa minvant",
-    "icona_lluna": "mdi:moon-waning-gibbous",
-    "illuminacio_lluna": 98.5287670058356,
+    "fase_lluna": "",
+    "icona_lluna": "mdi:moon-full",
+    "illuminacio_lluna": 98.5245226544478,
     "sortida_sol": "2026-11-26T06:50:59.115874+00:00",
     "posta_sol": "2026-11-25T16:26:51.435227+00:00"
   },
   "prediccio": {
-    "pluja": 95,
-    "tempesta": 55,
+    "pluja": 0,
+    "tempesta": 0,
     "neu": 0
   },
-  "condicio": "Molt ennuvolat",
-  "icona": "overcast.svg",
-  "actualitzacio": "2026-11-25T15:15:43.829318+01:00"
+  "condicio": "",
+  "icona": "",
+  "actualitzacio": "2026-11-25T15:17:10.234833+01:00"
 }
