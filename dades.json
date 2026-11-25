@@ -1,24 +1,24 @@
 {
   "actual": {
-    "temperatura": 0,
-    "sensacio": 0,
-    "humitat": 0,
-    "pressio": 0,
-    "vent": 0,
-    "ratxa": 0,
-    "radiacio": 0,
-    "uv": 0,
-    "cobertura": 0,
-    "base_nuvols": 9999
+    "temperatura": 9.7,
+    "sensacio": 8.5,
+    "humitat": 77.0,
+    "pressio": 1008.5,
+    "vent": 8.6,
+    "ratxa": 13.0,
+    "radiacio": 42.9,
+    "uv": 0.0,
+    "cobertura": 95.0,
+    "base_nuvols": 500.0
   },
   "pluja": {
-    "rati": 0,
+    "rati": 1.2,
     "hora": 0.0,
-    "avui": 0,
+    "avui": 0.7,
     "ahir": 0,
-    "setmana": 0,
-    "mes": 0,
-    "any": 0
+    "setmana": 1.5,
+    "mes": 49.7,
+    "any": 701.8
   },
   "maxims": {
     "rati_pluja": 3.0,
@@ -29,7 +29,7 @@
   "astronomia": {
     "fase_lluna": "Gibosa minvant",
     "icona_lluna": "mdi:moon-waning-gibbous",
-    "illuminacio_lluna": 98.7463775175413,
+    "illuminacio_lluna": 98.7460765732185,
     "sortida_sol": "2026-11-26T06:50:59.115874+00:00",
     "posta_sol": "2026-11-25T16:26:51.435227+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Cobert",
   "icona": "overcast.svg",
-  "actualitzacio": "2026-11-25T13:10:17.758745+01:00"
+  "actualitzacio": "2026-11-25T13:10:49.828519+01:00"
 }
