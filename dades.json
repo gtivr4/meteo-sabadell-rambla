@@ -2,14 +2,14 @@
   "actual": {
     "temperatura": 8.5,
     "sensacio": 8.5,
-    "humitat": 73.0,
+    "humitat": 74.0,
     "pressio": 1011.2,
-    "vent": 3.2,
-    "ratxa": 5.4,
+    "vent": 1.8,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 3.0,
-    "base_nuvols": 575.0
+    "base_nuvols": 550.0
   },
   "pluja": {
     "rati": 0.0,
@@ -24,7 +24,7 @@
     "rati_pluja": 0.0,
     "vent": 10.4,
     "ratxa": 16.6,
-    "humitat": 73.0
+    "humitat": 74.0
   },
   "astronomia": {
     "fase_lluna": "Gibosa minvant",
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-night.svg",
-  "actualitzacio": "2026-11-26T03:35:43.289392+01:00"
+  "actualitzacio": "2026-11-26T03:36:13.300542+01:00"
 }
