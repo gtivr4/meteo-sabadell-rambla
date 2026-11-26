@@ -3,10 +3,10 @@
     "temperatura": 11.5,
     "sensacio": 11.5,
     "humitat": 62.0,
-    "pressio": 1012.2,
-    "vent": 2.2,
+    "pressio": 1012.0,
+    "vent": 3.2,
     "ratxa": 3.6,
-    "radiacio": 169.42,
+    "radiacio": 168.17,
     "uv": 1.0,
     "cobertura": 0.0,
     "base_nuvols": 875.0
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 2,
-    "tempesta": 0,
+    "tempesta": 1,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-11-26T12:47:44.674077+01:00"
+  "actualitzacio": "2026-11-26T12:48:14.678736+01:00"
 }
