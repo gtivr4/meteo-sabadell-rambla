@@ -4,9 +4,9 @@
     "sensacio": 10.0,
     "humitat": 68.0,
     "pressio": 1012.8,
-    "vent": 1.4,
+    "vent": 0.7,
     "ratxa": 1.8,
-    "radiacio": 38.28,
+    "radiacio": 38.29,
     "uv": 0.0,
     "cobertura": 0.0,
     "base_nuvols": 700.0
@@ -35,10 +35,10 @@
   },
   "prediccio": {
     "pluja": 3,
-    "tempesta": 0,
+    "tempesta": 1,
     "neu": 0
   },
   "condicio": "Cel net",
   "icona": "clear-day.svg",
-  "actualitzacio": "2026-11-26T11:19:44.541599+01:00"
+  "actualitzacio": "2026-11-26T11:20:14.534869+01:00"
 }
