@@ -1,15 +1,15 @@
 {
   "actual": {
     "temperatura": 8.7,
-    "sensacio": 8.1,
-    "humitat": 68.0,
+    "sensacio": 8.2,
+    "humitat": 67.0,
     "pressio": 1017.5,
-    "vent": 5.8,
-    "ratxa": 11.2,
-    "radiacio": 66.73,
+    "vent": 5.4,
+    "ratxa": 13.0,
+    "radiacio": 65.55,
     "uv": 0.0,
     "cobertura": 14.0,
-    "base_nuvols": 700.0
+    "base_nuvols": 725.0
   },
   "pluja": {
     "rati": 0.0,
@@ -23,13 +23,13 @@
   "maxims": {
     "rati_pluja": 0.0,
     "vent": 8.6,
-    "ratxa": 11.2,
+    "ratxa": 13.0,
     "humitat": 83.0
   },
   "astronomia": {
     "fase_lluna": "Gibosa minvant",
     "icona_lluna": "mdi:moon-waning-gibbous",
-    "illuminacio_lluna": 89.3892784452699,
+    "illuminacio_lluna": 89.384262361438,
     "sortida_sol": "2026-11-28T06:53:11.412040+00:00",
     "posta_sol": "2026-11-27T16:25:55.546468+00:00"
   },
@@ -40,5 +40,5 @@
   },
   "condicio": "Poc ennuvolat",
   "icona": "mostly-clear.svg",
-  "actualitzacio": "2026-11-27T11:07:17.625154+01:00"
+  "actualitzacio": "2026-11-27T11:07:47.651098+01:00"
 }
