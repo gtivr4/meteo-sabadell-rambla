@@ -3,9 +3,9 @@
     "temperatura": 7.5,
     "sensacio": 7.5,
     "humitat": 81.0,
-    "pressio": 1014.6,
-    "vent": 2.2,
-    "ratxa": 1.8,
+    "pressio": 1014.5,
+    "vent": 2.5,
+    "ratxa": 3.6,
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 3.0,
@@ -22,8 +22,8 @@
   },
   "maxims": {
     "rati_pluja": 0.0,
-    "vent": 2.2,
-    "ratxa": 1.8,
+    "vent": 2.5,
+    "ratxa": 3.6,
     "humitat": 83.0
   },
   "astronomia": {
@@ -40,5 +40,5 @@
   },
   "condicio": "Cel net",
   "icona": "clear-night.svg",
-  "actualitzacio": "2026-11-27T01:13:46.260222+01:00"
+  "actualitzacio": "2026-11-27T01:14:16.262581+01:00"
 }
