@@ -1,7 +1,7 @@
 {
   "actual": {
-    "temperatura": 5.4,
-    "sensacio": 5.4,
+    "temperatura": 5.3,
+    "sensacio": 5.3,
     "humitat": 79.0,
     "pressio": 1020.8,
     "vent": 0.0,
@@ -9,7 +9,7 @@
     "radiacio": 0.0,
     "uv": 0.0,
     "cobertura": 0.0,
-    "base_nuvols": 413.0
+    "base_nuvols": 412.0
   },
   "pluja": {
     "rati": 0.0,
@@ -36,9 +36,9 @@
   "prediccio": {
     "pluja": 3,
     "tempesta": 0,
-    "neu": 0
+    "neu": 1
   },
   "condicio": "Cel net",
   "icona": "clear-night.svg",
-  "actualitzacio": "2026-11-28T06:49:22.503052+01:00"
+  "actualitzacio": "2026-11-28T06:49:52.494302+01:00"
 }
